@@ -1,0 +1,163 @@
+{
+	"images" : {
+		"modpack" : {
+			"image" : "mainmenu:modpack.png",
+			"posX" : -75,
+			"posY" : -80,
+			"width" : 150,
+			"height" : 150,
+			"alignment" : "center"
+		}
+	},
+	"buttons" : {
+		"singleplayer" : {
+			"text" : "menu.singleplayer",
+			"posX" : -102.5,
+			"posY" : 50,
+			"width" : 98,
+			"height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+			"action" : {
+				"type" : "openGui",
+				"gui" : "singleplayer"
+			}
+		},
+		"multiplayer" : {
+			"text" : "menu.multiplayer",
+			"posX" : 2.5,
+			"posY" : 50,
+			"width" : 98,
+			"height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+			"action" : {
+				"type" : "openGui",
+				"gui" : "multiplayer"
+			}
+		},
+		"quit" : {
+			"text" : "menu.quit",
+			"posX" : -87.5,
+			"posY" : 75,
+			"width" : 175,
+			"height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:midbutton.png",
+			"action" : {
+				"type" : "quit"
+			}
+		},
+		"changelog" : {
+			"text" : "Changelogs",
+			"posX" : -105,
+			"posY" : 5,
+			"width" : 98,
+			"height" : 20,
+			"alignment" : "top_right",
+			"texture" : "mainmenu:shortbutton.png",
+			"action" : {
+				"type" : "openLink",
+				"link" : "https://raw.githubusercontent.com/O13SC3N3/NoxEternus/master/CHANGELOG"
+			}
+		},
+		"website" : {
+			"text" : "",
+			"posX" : -105,
+			"posY" : 30,
+			"width" : 20,
+			"height" : 20,
+			"alignment" : "top_right",
+			"tooltip" : "Website",
+			"texture" : "mainmenu:web.png",
+			"imageWidth" : "40",
+			"imageHeight" : "40",
+			"action" : {
+				"type" : "openLink",
+				"link" : "https://github.com/O13SC3N3/NoxEternus/issues"
+			}
+		},
+		"mods" : {
+			"text" : "",
+			"posX" : -79,
+			"posY" : 30,
+			"width" : 20,
+			"imageWidth" : "40",
+			"imageHeight" : "40",
+			"tooltip" : "Mods",
+			"height" : 20,
+			"alignment" : "top_right",
+			"texture" : "mainmenu:mods.png",
+			"action" : {
+				"type" : "openGui",
+				"gui" : "mods"
+			}
+		},
+		"options" : {
+			"text" : "",
+			"posX" : -53,
+			"posY" : 30,
+			"tooltip" : "Options",
+			"width" : 20,
+			"imageWidth" : "40",
+			"imageHeight" : "40",
+			"height" : 20,
+			"alignment" : "top_right",
+			"texture" : "mainmenu:options.png",
+			"action" : {
+				"type" : "openGui",
+				"gui" : "options"
+			}
+		},
+		"language" : {
+			"text" : "",
+			"posX" : -28,
+			"posY" : 30,
+			"width" : 20,
+			"height" : 20,
+			"tooltip" : "Language",
+			"alignment" : "top_right",
+			"imageWidth" : "40",
+			"imageHeight" : "40",
+			"texture" : "mainmenu:lang.png",
+			"action" : {
+				"type" : "openGui",
+				"gui" : "languages"
+			}
+		}
+	},
+	"texts" : {
+		"mojang" : {
+			"text" : "Copyright Mojang AB",
+			"posX" : -94,
+			"posY" : -10,
+			"color" : -1,
+			"alignment" : "bottom_right"
+		},
+		"release" : {
+			"text" : "Modpack Version: 3.0.3a(B3TA)",
+			"posX" : 2,
+			"posY" : -30,
+			"alignment" : "bottom_left"
+		},
+		"modsactive" : {
+			"text" : "Mods Active: #modsactive# Mods Loaded: #modsloaded#",
+			"posX" : 2,
+			"posY" : -20,
+			"alignment" : "bottom_left"
+		},
+		"minecraft" : {
+			"text" : "Minecraft: #mcversion# Forge: #forgeversion#",
+			"posX" : 2,
+			"posY" : -10,
+			"alignment" : "bottom_left"
+		}
+	},
+	"other" : {
+		"background" : {
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+	}
+}
+}
