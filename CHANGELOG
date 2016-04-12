@@ -1,0 +1,312 @@
+Nox Eternus Changelog
+
+04/09/16 - ver. 3.0.3 B3TA T3STING
+	Added Mods
+	- Grimoire of Gaia
+	
+	Removed Mods
+	- Thermal Recycling
+	
+	Testing Mods
+	- Climate Control
+	- Real Terrain Generation
+	
+04/02/16 - ver. 3.0.2 B3TA T3STING
+	Updated Mods
+	- Better Foliage 2.0.7
+	- Chisel 2.9.5.11
+	- FTBLib 1.0.18.3
+	- FTBUtilites 1.0.18.3
+	- FastCraft 1.22
+	- Forestry 4.2.11.59
+	- Immersive Engineering 0.7.5
+	- Logistics Pipes 0.9.3.114
+	- LootBags 2.0.2
+	- Railcraft 9.10.0.0
+	- Sanguimancy 1.1.9-34
+	- Storage Drawers 1.9.6
+	- XPTeleporters 1.2.9
+	
+	Added Mods
+	- Realistic Torches 1.5.4
+	- PsychedelicCraft 1.5.2
+	
+	Removed Mods
+	- ColorChat
+	- K4Lib
+	- Blood Arsenal
+
+04/01/16 - ver. 3.0.1 B3TA T3STING
+	Added Mods
+	- Ars Magica 2 1.4.0.009
+	- AnimationAPI 1.2.4
+	- Binnie Mods 2.0-pre14
+	- Binnie Patcher 1.6
+	
+	Removed Mods
+	- DirectionHUD
+	- Sync
+	- Waila Events
+	- Waila Inhibitors
+	
+	Changes
+	- Removed Hungry and Thief SpecialMobs
+	- ProjectE Added Missing Recipe for Gem of Eternal Density
+	- Dynamic Lights Added more items that emit light
+	
+	WIP
+	- Integrating Ars Magica 2 into Nox Eternus
+	- End Game, OreGen, Recipe, Script Balancing
+	
+	Known Bugs
+	- Ars Magica 2 Ore conflicts with UBC Ore Register
+	(They do not adapt surrounding stone features, just Stone)
+	- ExtraTiC Fantasy Ores broken with Ore Register
+	(Disabled by Default, Can still obtain via Mob/Chest Loot)
+	- OpenBlocks Graves will Pop in Spawn Protection
+	(Can Cause loss of inventory if a player dies at original Spawn)
+	
+	Future
+	- May be replacing Dense Ores with WTFOres
+	(More UBC Integration and OreGen profiling)
+	
+	Request
+	- Need to add more items to the Dynamic Lighting list
+	- Players need to forward bug and/or crash reports
+	
+	Testing
+	- Added PsychedelicCraft
+	(Environmental Shaders [Heat Wave/Water Fade])
+	- Added Realistic Torches 
+	(Light Source Progression and Harder Acquisition)
+	
+03/20/2016 - ver. 16.03.20
+	Updated Mods
+	- Immersive Integration 0.6.73
+	- Foresty 4.2.10.58
+	- Plant Mega Pack 4.33
+	- Railcraft 9.9.0.0
+	- RFTools 4.237
+	
+	Added Mods
+	- Blood Arsenal	by Arcaratus
+	- Garden Stuff by jaquadro
+	- Redstone Paste Mod by FyberOptic
+	- Sanguimancy by Tombenpotter
+	- Sound Filters by Tmtravlr
+	- Thaumic Equivalence by Lilylicious
+	- Thermal Recycling by OreCruncher
+	
+	Removed Mods
+	- Gliby's VoiceChat
+	(Limited Port Access killed Gliby)
+	
+	Config Changes
+	- Enabled Vanilla Mobs in *Special Mobs*
+	(Reduced Special Mobs Spawn Rate by 50%)
+	- Increased Infernal Mobs with Boss Type
+	- Removed Creeper Grief with Light Types
+	- Script Recipe Changes and Additions
+
+	Other
+	- Updated OptiFineHD Resource Pack to D3
+	Fixed Bloom Lightning not working, press
+	Super Secret Settings ONCE! WARNING, YOU
+	must HAVE Revelation VII currently active
+	before it will work! Click HD TEXTURES on
+	the MAIN MENU for more Information!
+	
+03/05/2016 - ver. 16.03.05 Server Update
+	Updated Mods
+	- Agricraft 1.5.0
+	- Better Foliage 2.0.4
+	- Botania r1.8 249
+	- Brandons Core 1.0.0.11
+	- Draconic Evolution 1.0.2 (10 beta2)
+	- Dynamic Surroundings 1.0.5.4BETA
+	- EnderIO 2.3.0.424
+	- FTBUtilites 1.0.17.6
+	- FTBLib 1.0.17.6
+	- Immersive Engineering 0.7.3
+	- JourneyMap 5.1.4
+	- Logistics Pipes 0.9.3.94
+	- Storage Drawers 1.9.4
+	- Thermal Expansion 4.1.2-240
+	- Thermal Foundation 1.2.3-112
+	- XPTeleporters	1.2.8
+	
+	Added Mods
+	- Iguana Tweaks for Tinker's Construct by iguana_man, boni
+	
+	Removed Mods
+	- PyroxWeaponry (By Request)
+	
+	Changelog Changes
+	- Lycanite's Mobs Warg and Barghest Disabeled
+	(Due to Server Related Crash when Riding Them)
+	- GlibysVC Client and Server Synched
+	(Hopefully Fixes the Issue of loss COM in Game)
+	- XPTeleporters now work as intended
+	- Script Changes and Additives
+	(Increased a few Armours durability by 25%)
+	(Server Side Scripting and Balances)
+
+02/18/2016 - ver. 16.02.15 The Rewrite
+
+	*UPDATE REQUIRES A NEW WORLD*
+	
+	UPDATED TO FORGE 1614
+	
+	Updated Mods
+	- AOBD 2.9.1
+	- Big Trees 0.2 - New Owner
+	- Biomes O Plenty 1548
+	- Bookshelf 1.0.4.187
+	- CoFHCore 3.1.0 324
+	- CoFHLib 1.1.1 181
+	- Dynamic Surroundings 1.0.5.0BETA
+	- Ender Storage 1.4.7.38
+	- FTBLib 1.0.17.2
+	- FTBUtilities 1.0.17.1
+	- Forestry 4.2.8
+	- Gendustry 1.6.3.132
+	- Headcrumbs 1.7.4
+	- Immersive Engineering 0.7.1.2
+	- Logistics Pipes 0.9.3.73
+	- Magic Bees 2.4.3
+	- Mine Factory Reloaded 2.8.1 174
+	- Modular Power Suits 0.11.0.300
+	- NEI Integration  1.1.1
+	- Nether Ores 2.3.1 22
+	- Not Enough Items 1.0.5.120
+	- Open Modular Turrets 2.1.9-211
+	- Open Blocks 1.5.1
+	- Pam's HarvestCraft 1.7.10Lb
+	- Project Reds 4.7.0pre12.95
+	- Pyrox's Weaponry 2.0.0
+	- RFTools 4.22
+	- Redstone Arsenal 1.1.2 92
+	- Special AI 1.1.2
+	- Special Mobs 3.2.2
+	- Thermal Expansion 4.1.1 237
+	- Thermal Foundation 1.2.2 11
+	- Translocator 1.1.2.16
+	
+	Added Mods
+	- ArmourHUD
+	- DirectionHUD
+	- Hardcore Wither
+	- Tainted Magic
+	- UBC Ore Register
+	
+	Removed Mods
+	- StatusEffectHUD
+	- BilblioWoods[Biomes O Plenty]
+	- BilblioWoods[Forestry]
+	- BilblioWoods[Natura]
+	- Binnie's Mods [Way Outdated]
+
+	Other News
+	- Added two new Resource Pack Additions
+	Revelation VI and VII, OptiFine HD Req.
+	
+    Config Changes
+	- Decreased/Increased/Balanced Ore Generation
+	- Decreased Special Mob Spawn Rates
+	- Decreased Monster Egg Spawn Rates
+	- Decreased Natural Trap Spawn Rates
+	- Decreased Monster Overall Attributes
+	- Increased Weeping Angel Spawn
+	
+	Bugs Squashed
+	- Fixed Weeping Angel Crash when the Angel Infects a Player
+	(NOTE this actually Corrupted players DATA Files, Very Bad)
+	- Fixed Many Recipe Conflicts (some may still exist)
+	- Fixed Many Ore Dictionary Errors (some may still exist)
+	- Fixed IC2 Uranium's Infestation (CoFH - finally worked)
+    
+	*UPDATE REQUIRES A NEW WORLD*
+	
+01/25/2016 - ver. 16.01.20 Update and Request
+	- Updated FTBUtilities 1.0.16
+	- Updated FTBLib 1.0.16
+	- Updated XPTeleporters 1.2.7
+	- Updated Avarita 1.0 (released)
+	- Updated DynamicSurroundings 1.0.3.1BETA
+	(BetterRain Renamed to DynamicSurroundings)
+	- Updated Headcrumbs 1.7.3
+	- Updated Ruins
+		
+    - Added ClockHud 1.1.0 (by Request)
+	
+	- Removed PVPToggle
+	(Only works for about 30 Minuets on Server Reboot) 
+		- Switched to Server Sided Plugin
+	
+	- Scripting, a crap ton of Scripting
+		- Fixed Recipes for Torches, Arrows, changed baked
+		potato, sweet baked potato, back to nilla recipes.
+		made more sense to "Bake" a baked potato... And did
+		I mention a crap ton more scripts?
+
+	- Fixed Major bug involving Lycanite's Mobs adding
+	effects to the player during combat, causing client
+	side crash. (May still be Unstable)
+	- Fixed Bad BoP Phantom config option to false...
+	(Phantoms would spawn when a player tries to goto sleep)
+	
+	- Known Bugs; Morpheous(Or Another) allowing Players to sleep
+	through the Blood Moon. Few Crops don't interact with Argricraft
+	still (right click), Some meats like mutton does NOT work on the
+	Drying Rack.
+
+01/20/2016 - ver. 16.01.20 Hotfixes
+	- Updated FTBUtilities 1.0.15
+	- Updated FTBLib 1.0.15
+	- Updated BetterRain 1.0.2.5BETA
+	- Updated XPTeleporters 1.2.6
+
+	- Config Changes Various Bug Fixes
+	
+01/16/2016 - ver. 16.01.16 Major Update and Hotfixes
+	- Updated Forbidden Magic 0.573
+	- Updated IronBackpacks 1.2.15
+	- Updated FTBLib 1.0.14.3
+	- Updated FTBTweaks 1.0.1
+	- Updated FTBUtilities 1.0.14.201
+	- Updated XPTeleporters 1.2.4
+	- Updated Pyrox's Weaponry 1.27
+	- Updated Ruins 15.3
+	- Updated ProjectE PE1.9.5
+	- Updated BetterFoliage 2.0.201
+	- Updated BetterRain 1.0.2.2BETA
+	- Updated IC2NuclearControl 2.3.4a
+	- Updated StorageDrawers 1.7.6
+	   - BoP, Forestry, Natura, Misc
+	   
+	- Added DeadlyWorld by FatherToast
+	- Added SpecialMobs by FatherToast
+	- Added ClockWorkPhase by Lumaceon
+	- Added pvpToggle by K4Unl
+	- Added K4Lib by K4Unl
+	- Added WAILAPlugins by
+	- Added Waila Inhibitors
+	- Added Waila Events
+
+	- Removed Malisis(Doors/Core)
+	
+	- Various Config Changes
+ 
+01/10/2016 - ver. 16.01.10 Hotfixes
+	- Added proper CustomMenuConfig to allow Server Access, and other Information. (My bad...)
+
+	- Edited Configs for; Enchanting Plus, Botania, InfernalMobs, Ping, and OpenModularTurrets.
+
+	- Fix for GlibysVC Server Settings
+	
+	- Removed BackTools (Only worked between Dimensions/Death)
+	- Removed Emotes (One Player can cause all to Emote)
+	- Disabled Pyrox's Weaponry Mod (Bugged in SMP)
+
+01/07/2016 - ver. 16.01.07 Initital Release
+	- Subbmitted to Feed the Beast as a Private Modpack.
