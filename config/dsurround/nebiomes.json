@@ -1,0 +1,67 @@
+{
+    "entries":[
+		{
+        "biomeName":"Hell.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    },
+        {
+        "biomeName":"Corrupted Sands.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    },
+		{
+        "biomeName":"Phantasmagoric Inferno.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    },
+		{
+        "biomeName":"Boneyard.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    },
+		{
+        "biomeName":"Visceral Heap.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    },
+		{
+        "biomeName":"Undergarden.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    },
+		{
+        "biomeName":"Polar Chasm.*",
+		"precipitation":true,
+	    "dust":true,
+	    "dustColor":"204,185,102",
+	    "fog":true,
+	    "fogDensity":0.01,
+	    "fogColor":"65,50,55"
+	    }
+    ]
+}

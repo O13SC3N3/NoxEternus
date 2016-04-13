@@ -1,0 +1,2705 @@
+Script handler ready. Waiting for a while to ensure all other mods are done messing with NEI.
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Engine: JAVASCRIPT
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+Found creative tab: tabBloodMagic
+Found creative tab: misc
+Found creative tab: IC2
+Found creative tab: agricraft
+Found creative tab: avaritia
+Found creative tab: tools
+Found creative tab: BiblioCraft
+Found creative tab: BiblioCraftLights
+Found creative tab: BigReactors
+Found creative tab: materials
+Found creative tab: apiculture
+Found creative tab: buildingBlocks
+Found creative tab: tabBiomesOPlenty
+Found creative tab: Botania
+Found creative tab: Botany
+Found creative tab: buildcraft.main
+Found creative tab: buildcraft.pipes
+Found creative tab: buildcraft.boards
+Found creative tab: buildcraft.facades
+Found creative tab: buildcraft.gates
+Found creative tab: CarpentersBlocks
+Found creative tab: decorations
+Found creative tab: CaveDecorations
+Found creative tab: combat
+Found creative tab: ComputerCraft
+Found creative tab: blocksAndItems
+Found creative tab: food
+Found creative tab: toolsAndWeapons
+Found creative tab: enchiridion
+Found creative tab: EnderIO
+Found creative tab: EnderTechAll
+Found creative tab: EnderZoo
+Found creative tab: extratic.parts
+Found creative tab: extratic.blocks
+Found creative tab: extratic.items
+Found creative tab: extratic.buckets
+Found creative tab: arboriculture
+Found creative tab: lepidopterology
+Found creative tab: extraUtil
+Found creative tab: extraUtil_FMP
+Found creative tab: forbidden
+Found creative tab: mobcrystal
+Found creative tab: forestry
+Found creative tab: transportation
+Found creative tab: gardenCore
+Found creative tab: gardenTrees
+Found creative tab: Genetics
+Found creative tab: tabGaia
+Found creative tab: tabHardcoreEnderExpansion
+Found creative tab: Nuclear Control 2
+Found creative tab: ImmersiveEngineering
+Found creative tab: jabba
+Found creative tab: Logistics_Pipes
+Found creative tab: redstone
+Found creative tab: magicBees
+Found creative tab: mariculture.core
+Found creative tab: mariculture.fishing
+Found creative tab: mariculture.world
+Found creative tab: mariculture.magic
+Found creative tab: mariculture.machines
+Found creative tab: TConstructMaterials
+Found creative tab: MineFactory Reloaded
+Found creative tab: natura.plants
+Found creative tab: natura.nether
+Found creative tab: natura.trees
+Found creative tab: Nether Ores
+Found creative tab: tabOpenBlocks
+Found creative tab: tabOpenPeripheralAddons
+Found creative tab: TConstructBlocks
+Found creative tab: core
+Found creative tab: expansion
+Found creative tab: exploration
+Found creative tab: ill
+Found creative tab: int
+Found creative tab: trans
+Found creative tab: transport
+Found creative tab: ProjectE
+Found creative tab: railcraft
+Found creative tab: Random Things
+Found creative tab: redstonearsenal.creativeTab
+Found creative tab: tabSanguimancy
+Found creative tab: solarexpansion
+Found creative tab: sfm
+Found creative tab: SC2Blocks
+Found creative tab: SC2Modules
+Found creative tab: SC2Items
+Found creative tab: steves_production
+Found creative tab: storageDrawers
+Found creative tab: storageDrawersBop
+Found creative tab: storageDrawersForestry
+Found creative tab: storageDrawersMisc
+Found creative tab: storageDrawersNatura
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructEquipables
+Found creative tab: TMechworks
+Found creative tab: TaintedMagic
+Found creative tab: thaumcraft
+Found creative tab: thaumicExploration
+Found creative tab: ThaumicTinkerer
+Found creative tab: brewing
+Found creative tab: thermaldynamics.creativeTab
+Found creative tab: thermaldynamics.creativeTabCovers
+Found creative tab: thermalexpansion.creativeTabBlocks
+Found creative tab: thermalexpansion.creativeTabItems
+Found creative tab: thermalexpansion.creativeTabTools
+Found creative tab: thermalexpansion.creativeTabFlorbs
+Found creative tab: thermalfoundation.creativeTab
+Found creative tab: thermalfoundation.creativeTabArmor
+Found creative tab: thermalfoundation.creativeTabTools
+Found creative tab: twilightForest
+Found creative tab: undergroundBiomesBlocks
+Found creative tab: undergroundBiomesItems
+Found creative tab: xpt.tab
+Found creative tab: origin
+Found creative tab: aobd
+Found creative tab: appliedenergistics2
+Found creative tab: appliedenergistics2.facades
+Found creative tab: lycanitesmobs.creatures
+Found creative tab: lycanitesmobs.items
+Found creative tab: Ars Magica Items
+Found creative tab: Ars Magica Blocks
+Found creative tab: tabWoodChiselBlocks
+Found creative tab: tabStairChiselBlocks
+Found creative tab: tabModdedChiselBlocks
+Found creative tab: tabStoneChiselBlocks
+Found creative tab: tabOtherChiselBlocks
+Found creative tab: tabChisel
+Found creative tab: tabMetalChiselBlocks
+Found creative tab: ClockworkPhase
+Found creative tab: eplus
+Found creative tab: Extra_Cells
+Found creative tab: funkylocomotion
+Found creative tab: bdew.gendustry
+Found creative tab: bdew.samples
+Found creative tab: bdew.templates
+Found creative tab: guideapi.creativeTab
+Found creative tab: hardcorewither.creativeTab
+Found creative tab: tabHarvestCraft2
+Found creative tab: tabHarvestCraft3
+Found creative tab: tabHarvestCraft
+Found creative tab: headcrumbs
+Found creative tab: immersiveintegration
+Found creative tab: ironbackpacks
+Found creative tab: openmodularturrets
+Found creative tab: plants
+Found creative tab: build
+Found creative tab: crops
+Found creative tab: aquatic
+Found creative tab: flowers
+Found creative tab: powersuits
+Found creative tab: tabPrimitiveMobs
+Found creative tab: props.Main
+Found creative tab: search
+Found creative tab: psycheDrinks
+Found creative tab: psychedelicraft
+Found creative tab: psycheWeapons
+Found creative tab: recallTab
+Found creative tab: inventoryGenerators
+Found creative tab: structureTools
+Found creative tab: rfdrills
+Found creative tab: RfTools
+Found creative tab: RfToolsDimlets
+Found creative tab: runicdungeons
+Found creative tab: tabSimplyJetpacks
+Found creative tab: tabSpringboards
+Found creative tab: ThaumicEnergistics
+Found creative tab: tabWitchery
+Setting up ForgeMicroblock Library...
+Setting up ExtraUtilities Library...
+Setting up BuildCraft Library...
+Setting up Applied Energistics 2 Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+hide called. Params: minecraft, portal
+Regex match found! minecraft:portal matches minecraft:portal.
+Found ItemStack minecraft:portal. 64xtile.portal@0
+hide called. Params: minecraft, end_portal
+Regex match found! minecraft:end_portal matches minecraft:end_portal.
+Found ItemStack minecraft:end_portal. 64xtile.null@0
+hide called. Params: minecraft, fire
+Regex match found! minecraft:fire matches minecraft:fire.
+Found ItemStack minecraft:fire. 64xtile.fire@0
+hide called. Params: minecraft, water
+Regex match found! minecraft:water matches minecraft:water.
+Found ItemStack minecraft:water. 64xtile.water@0
+hide called. Params: minecraft, lava
+Regex match found! minecraft:lava matches minecraft:lava.
+Found ItemStack minecraft:lava. 64xtile.lava@0
+hide called. Params: minecraft, lit_furnace
+Regex match found! minecraft:lit_furnace matches minecraft:lit_furnace.
+Found ItemStack minecraft:lit_furnace. 64xtile.furnace@0
+hide called. Params: minecraft, flowing
+hide called. Params: minecraft, flowing_water
+Regex match found! minecraft:flowing_water matches minecraft:flowing_water.
+Found ItemStack minecraft:flowing_water. 64xtile.water@0
+hide called. Params: minecraft, flowing_lava
+Regex match found! minecraft:flowing_lava matches minecraft:flowing_lava.
+Found ItemStack minecraft:flowing_lava. 64xtile.lava@0
+hide called. Params: minecraft, spawn_egg
+Regex match found! minecraft:spawn_egg matches minecraft:spawn_egg.
+Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
+hide called. Params: minecraft, mob_spawner
+Regex match found! minecraft:mob_spawner matches minecraft:mob_spawner.
+Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
+Loading: ThermalExpansion.js
+override called. Params: ThermalExpansion, florb, 0,1
+Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
+Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
+Loading: Mekanism.js
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration_3
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration_3
+Loading: ExtraUtilities.js
+override called. Params: ExtraUtilities, drum, 0,1
+Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: ExtraUtilities:trading_post
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ExtraUtilities:trading_post
+Loading: BuildCraft.js
+getFacadesSize called. Returned: 6031
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 254
+Loading: Bibliocraft.js
+override called. Params: BiblioCraft, *, 0
+Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioBell.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioBorderlessPainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioCase.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioClipboard.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioClock.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioDesk.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioFancyPainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioFancySign.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioFlatPainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioIronLamp.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioIronLantern.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioLabel.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioLamp.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioLantern.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioMapFrames.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioMiddlePainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioPaintPress.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioPaneler.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioPotionShelf.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioRack.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioSeats.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioShelf.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioSimplePainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioStuffs.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioSwordPedestal.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioTable.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioTypewriter.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioWorkbench.
+Regex match found! BiblioCraft:* matches BiblioCraft:Bibliotheca.
+Regex match found! BiblioCraft:* matches BiblioCraft:BookcaseFilled.
+Regex match found! BiblioCraft:* matches BiblioCraft:Printing Press.
+Regex match found! BiblioCraft:* matches BiblioCraft:Typesetting Machine.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.AtlasBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.AtlasPlate.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioChase.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioClipboard.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioCreativeLock.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioDrill.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioGlasses.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioMapTool.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioRedBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioWayPointCompass.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BigBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.DeathCompass.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.EnchantedPlate.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.FramingBoard.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.FramingSaw.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.FramingSheet.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.HandDrill.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.PaintingCanvas.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.PlumbLine.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.PrintPlate.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.RecipeBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.SlottedBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.StockroomCatalog.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.TesterItem.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack2.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack3.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack4.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack5.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.tape.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.tapeMeasure.
+Regex match found! BiblioCraft:* matches BiblioCraft:tile.BiblioFramedChest.
+Found ItemStack BiblioCraft:Armor Stand. 64xtile.BiblioArmorStand@0
+Found ItemStack BiblioCraft:BiblioBell. 64xtile.BiblioBell@0
+Found ItemStack BiblioCraft:BiblioBorderlessPainting. 64xtile.BiblioBorderlessPainting@0
+Found ItemStack BiblioCraft:BiblioCase. 64xtile.BiblioCase@0
+Found ItemStack BiblioCraft:BiblioClipboard. 64xtile.BiblioClipboard@0
+Found ItemStack BiblioCraft:BiblioClock. 64xtile.BiblioClock@0
+Found ItemStack BiblioCraft:BiblioDesk. 64xtile.BiblioDesk@0
+Found ItemStack BiblioCraft:BiblioFancyPainting. 64xtile.BiblioFancyPainting@0
+Found ItemStack BiblioCraft:BiblioFancySign. 64xtile.BiblioFancySign@0
+Found ItemStack BiblioCraft:BiblioFlatPainting. 64xtile.BiblioFlatPainting@0
+Found ItemStack BiblioCraft:BiblioIronLamp. 64xtile.BiblioIronLamp@0
+Found ItemStack BiblioCraft:BiblioIronLantern. 64xtile.BiblioIronLantern@0
+Found ItemStack BiblioCraft:BiblioLabel. 64xtile.BiblioLabel@0
+Found ItemStack BiblioCraft:BiblioLamp. 64xtile.BiblioLamp@0
+Found ItemStack BiblioCraft:BiblioLantern. 64xtile.BiblioLantern@0
+Found ItemStack BiblioCraft:BiblioMapFrames. 64xtile.BiblioMapFrames@0
+Found ItemStack BiblioCraft:BiblioMiddlePainting. 64xtile.BiblioMiddlePainting@0
+Found ItemStack BiblioCraft:BiblioPaintPress. 64xtile.BiblioPaintPress@0
+Found ItemStack BiblioCraft:BiblioPaneler. 64xtile.BiblioPaneler@0
+Found ItemStack BiblioCraft:BiblioPotionShelf. 64xtile.BiblioPotionShelf@0
+Found ItemStack BiblioCraft:BiblioRack. 64xtile.BiblioRack@0
+Found ItemStack BiblioCraft:BiblioSeats. 64xtile.BiblioSeats@0
+Found ItemStack BiblioCraft:BiblioShelf. 64xtile.BiblioShelf@0
+Found ItemStack BiblioCraft:BiblioSimplePainting. 64xtile.BiblioSimplePainting@0
+Found ItemStack BiblioCraft:BiblioStuffs. 64xtile.BiblioStuffs@0
+Found ItemStack BiblioCraft:BiblioSwordPedestal. 64xtile.BiblioSwordPedestal@0
+Found ItemStack BiblioCraft:BiblioTable. 64xtile.BiblioTable@0
+Found ItemStack BiblioCraft:BiblioTypewriter. 64xtile.BiblioTypewriter@0
+Found ItemStack BiblioCraft:BiblioWorkbench. 64xtile.BiblioWorkbench@0
+Found ItemStack BiblioCraft:Bibliotheca. 64xtile.BiblioBookcase@0
+Found ItemStack BiblioCraft:BookcaseFilled. 64xtile.BookcaseFilled@0
+Found ItemStack BiblioCraft:Printing Press. 64xtile.BiblioPress@0
+Found ItemStack BiblioCraft:Typesetting Machine. 64xtile.BiblioType@0
+Found ItemStack BiblioCraft:item.AtlasBook. 1xitem.AtlasBook@0
+Found ItemStack BiblioCraft:item.AtlasPlate. 1xitem.AtlasPlate@0
+Found ItemStack BiblioCraft:item.BiblioChase. 64xitem.BiblioChase@0
+Found ItemStack BiblioCraft:item.BiblioClipboard. 1xitem.BiblioClipboard@0
+Found ItemStack BiblioCraft:item.BiblioCreativeLock. 1xitem.BiblioCreativeLock@0
+Found ItemStack BiblioCraft:item.BiblioDrill. 1xitem.BiblioDrill@0
+Found ItemStack BiblioCraft:item.BiblioGlasses. 1xitem.BiblioGlasses@0
+Found ItemStack BiblioCraft:item.BiblioMapTool. 1xitem.BiblioMapTool@0
+Found ItemStack BiblioCraft:item.BiblioRedBook. 64xitem.BiblioRedBook@0
+Found ItemStack BiblioCraft:item.BiblioWayPointCompass. 1xitem.BiblioWayPointCompass@0
+Found ItemStack BiblioCraft:item.BigBook. 1xitem.BigBook@0
+Found ItemStack BiblioCraft:item.DeathCompass. 64xitem.DeathCompass@0
+Found ItemStack BiblioCraft:item.EnchantedPlate. 1xitem.EnchantedPlate@0
+Found ItemStack BiblioCraft:item.FramingBoard. 64xitem.FramingBoard@0
+Found ItemStack BiblioCraft:item.FramingSaw. 1xitem.FramingSaw@0
+Found ItemStack BiblioCraft:item.FramingSheet. 64xitem.FramingSheet@0
+Found ItemStack BiblioCraft:item.HandDrill. 1xitem.HandDrill@0
+Found ItemStack BiblioCraft:item.PaintingCanvas. 64xitem.PaintingCanvas@0
+Found ItemStack BiblioCraft:item.PlumbLine. 1xitem.PlumbLine@0
+Found ItemStack BiblioCraft:item.PrintPlate. 1xitem.PrintPlate@0
+Found ItemStack BiblioCraft:item.RecipeBook. 1xitem.RecipeBook@0
+Found ItemStack BiblioCraft:item.SlottedBook. 1xitem.SlottedBook@0
+Found ItemStack BiblioCraft:item.StockroomCatalog. 1xitem.StockroomCatalog@0
+Found ItemStack BiblioCraft:item.TesterItem. 1xitem.TesterItem@0
+Found ItemStack BiblioCraft:item.seatBack. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack2. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack3. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack4. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.tape. 64xitem.tape@0
+Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
+Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
+Loading: AppliedEnergistics2.js
+getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
+getSubTypes called.
+getNumberOfTypes called. Returned: 4151
+override called. Params: appliedenergistics2, item.ItemFacade, 2009
+Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
+Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
+override called. Params: extracells, pattern.fluid, 0
+Regex match found! extracells:pattern.fluid matches extracells:pattern.fluid.
+Found ItemStack extracells:pattern.fluid. 1xitem.extracells.pattern.fluid@0
+Loading: Tcon.js
+override called. Params: TConstruct, creativeModifier, 0
+Regex match found! TConstruct:creativeModifier matches TConstruct:creativeModifier.
+Found ItemStack TConstruct:creativeModifier. 64xitem.tconstruct.modifier.creative@0
+hide called. Params: TConstruct, Boneana
+Regex match found! TConstruct:Boneana matches TConstruct:Boneana.
+Found ItemStack TConstruct:Boneana. 1xitem.InfiTool.Broadsword@0
+hide called. Params: TConstruct, potionLauncher
+Regex match found! TConstruct:potionLauncher matches TConstruct:potionLauncher.
+Found ItemStack TConstruct:potionLauncher. 1xitem.tconstruct.PotionLauncher@0
+hide called. Params: TConstruct, HeldItemBlock
+Regex match found! TConstruct:HeldItemBlock matches TConstruct:HeldItemBlock.
+Found ItemStack TConstruct:HeldItemBlock. 64xtile.Frypan@0
+hide called. Params: TConstruct, BattleSignBlock
+Regex match found! TConstruct:BattleSignBlock matches TConstruct:BattleSignBlock.
+Found ItemStack TConstruct:BattleSignBlock. 64xtile.Battlesign@0
+Loading: MFR.js
+hide called. Params: MineFactoryReloaded, milk.still
+Regex match found! MineFactoryReloaded:milk.still matches MineFactoryReloaded:milk.still.
+Found ItemStack MineFactoryReloaded:milk.still. 64xfluid.mfr.milk.still@0
+hide called. Params: MineFactoryReloaded, chocolatemilk.still
+Regex match found! MineFactoryReloaded:chocolatemilk.still matches MineFactoryReloaded:chocolatemilk.still.
+Found ItemStack MineFactoryReloaded:chocolatemilk.still. 64xfluid.mfr.chocolatemilk.still@0
+override called. Params: MineFactoryReloaded, stainedglass.block, 0
+Regex match found! MineFactoryReloaded:stainedglass.block matches MineFactoryReloaded:stainedglass.block.
+Found ItemStack MineFactoryReloaded:stainedglass.block. 64xtile.mfr.stainedglass.block@0
+override called. Params: MineFactoryReloaded, stainedglass.pane, 0
+Regex match found! MineFactoryReloaded:stainedglass.pane matches MineFactoryReloaded:stainedglass.pane.
+Found ItemStack MineFactoryReloaded:stainedglass.pane. 64xtile.mfr.stainedglass.pane@0
+override called. Params: MineFactoryReloaded, conveyor, 0
+Regex match found! MineFactoryReloaded:conveyor matches MineFactoryReloaded:conveyor.
+Found ItemStack MineFactoryReloaded:conveyor. 64xtile.mfr.conveyor@0
+Loading: NET.js
+override called. Params: gendustry, GeneSample, 0
+Regex match found! gendustry:GeneSample matches gendustry:GeneSample.
+Found ItemStack gendustry:GeneSample. 1xitem.gendustry.GeneSample@0
+override called. Params: Genetics, serum, 0
+Regex match found! Genetics:serum matches Genetics:serum.
+Found ItemStack Genetics:serum. 1xitem.serum@0
+override called. Params: Genetics, serumArray, 0
+Regex match found! Genetics:serumArray matches Genetics:serumArray.
+Found ItemStack Genetics:serumArray. 1xitem.serumArray@0
+hide called. Params: gendustry, fluid*
+Regex match found! gendustry:fluid* matches gendustry:fluid.LiquidDNA.
+Regex match found! gendustry:fluid* matches gendustry:fluid.Mutagen.
+Regex match found! gendustry:fluid* matches gendustry:fluid.Protein.
+Found ItemStack gendustry:fluid.LiquidDNA. 64xtile.gendustry.liquiddna@0
+Found ItemStack gendustry:fluid.Mutagen. 64xtile.gendustry.mutagen@0
+Found ItemStack gendustry:fluid.Protein. 64xtile.gendustry.protein@0
+hide called. Params: Forestry, bucket*
+Regex match found! Forestry:bucket* matches Forestry:bucketBiomass.
+Regex match found! Forestry:bucket* matches Forestry:bucketEthanol.
+Regex match found! Forestry:bucket* matches Forestry:bucketGlass.
+Regex match found! Forestry:bucket* matches Forestry:bucketHoney.
+Regex match found! Forestry:bucket* matches Forestry:bucketIce.
+Regex match found! Forestry:bucket* matches Forestry:bucketJuice.
+Regex match found! Forestry:bucket* matches Forestry:bucketSeedOil.
+Regex match found! Forestry:bucket* matches Forestry:bucketShortMead.
+Found ItemStack Forestry:bucketBiomass. 1xitem.for.bucketBiomass@0
+Found ItemStack Forestry:bucketEthanol. 1xitem.for.bucketEthanol@0
+Found ItemStack Forestry:bucketGlass. 1xitem.for.bucketGlass@0
+Found ItemStack Forestry:bucketHoney. 1xitem.for.bucketHoney@0
+Found ItemStack Forestry:bucketIce. 1xitem.for.bucketIce@0
+Found ItemStack Forestry:bucketJuice. 1xitem.for.bucketJuice@0
+Found ItemStack Forestry:bucketSeedOil. 1xitem.for.bucketSeedOil@0
+Found ItemStack Forestry:bucketShortMead. 1xitem.for.bucketShortMead@0
+hide called. Params: Forestry, bee*
+Regex match found! Forestry:bee* matches Forestry:beeCombs.
+Regex match found! Forestry:bee* matches Forestry:beeDroneGE.
+Regex match found! Forestry:bee* matches Forestry:beeLarvaeGE.
+Regex match found! Forestry:bee* matches Forestry:beePrincessGE.
+Regex match found! Forestry:bee* matches Forestry:beeQueenGE.
+Regex match found! Forestry:bee* matches Forestry:beealyzer.
+Regex match found! Forestry:bee* matches Forestry:beehives.
+Regex match found! Forestry:bee* matches Forestry:beeswax.
+Found ItemStack Forestry:beeCombs. 64xitem.for.beeCombs@0
+Found ItemStack Forestry:beeDroneGE. 64xitem.for.beeDroneGE@0
+Found ItemStack Forestry:beeLarvaeGE. 1xitem.for.beeLarvaeGE@0
+Found ItemStack Forestry:beePrincessGE. 1xitem.for.beePrincessGE@0
+Found ItemStack Forestry:beeQueenGE. 1xitem.for.beeQueenGE@0
+Found ItemStack Forestry:beealyzer. 1xitem.for.beealyzer@0
+Found ItemStack Forestry:beehives. 64xtile.for.beehives@0
+Found ItemStack Forestry:beeswax. 64xitem.for.beeswax@0
+hide called. Params: Forestry, crated*
+Regex match found! Forestry:crated* matches Forestry:cratedAcaciaSapling.
+Regex match found! Forestry:crated* matches Forestry:cratedAcaciaWood.
+Regex match found! Forestry:crated* matches Forestry:cratedApatite.
+Regex match found! Forestry:crated* matches Forestry:cratedApples.
+Regex match found! Forestry:crated* matches Forestry:cratedAsh.
+Regex match found! Forestry:crated* matches Forestry:cratedBeeswax.
+Regex match found! Forestry:crated* matches Forestry:cratedBirchSapling.
+Regex match found! Forestry:crated* matches Forestry:cratedBirchWood.
+Regex match found! Forestry:crated* matches Forestry:cratedBogearth.
+Regex match found! Forestry:crated* matches Forestry:cratedBrass.
+Regex match found! Forestry:crated* matches Forestry:cratedBrick.
+Regex match found! Forestry:crated* matches Forestry:cratedBronze.
+Regex match found! Forestry:crated* matches Forestry:cratedCacti.
+Regex match found! Forestry:crated* matches Forestry:cratedCarrots.
+Regex match found! Forestry:crated* matches Forestry:cratedCharcoal.
+Regex match found! Forestry:crated* matches Forestry:cratedCherry.
+Regex match found! Forestry:crated* matches Forestry:cratedChestnut.
+Regex match found! Forestry:crated* matches Forestry:cratedClay.
+Regex match found! Forestry:crated* matches Forestry:cratedCoal.
+Regex match found! Forestry:crated* matches Forestry:cratedCobblestone.
+Regex match found! Forestry:crated* matches Forestry:cratedCocoaComb.
+Regex match found! Forestry:crated* matches Forestry:cratedCookies.
+Regex match found! Forestry:crated* matches Forestry:cratedCopper.
+Regex match found! Forestry:crated* matches Forestry:cratedCrystallinePollen.
+Regex match found! Forestry:crated* matches Forestry:cratedDarkOakSapling.
+Regex match found! Forestry:crated* matches Forestry:cratedDarkOakWood.
+Regex match found! Forestry:crated* matches Forestry:cratedDates.
+Regex match found! Forestry:crated* matches Forestry:cratedDirt.
+Regex match found! Forestry:crated* matches Forestry:cratedDrippingCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedFertilizer.
+Regex match found! Forestry:crated* matches Forestry:cratedFrozenCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedGlowstone.
+Regex match found! Forestry:crated* matches Forestry:cratedGravel.
+Regex match found! Forestry:crated* matches Forestry:cratedHoneycombs.
+Regex match found! Forestry:crated* matches Forestry:cratedHoneydew.
+Regex match found! Forestry:crated* matches Forestry:cratedHumus.
+Regex match found! Forestry:crated* matches Forestry:cratedJungleSapling.
+Regex match found! Forestry:crated* matches Forestry:cratedJungleWood.
+Regex match found! Forestry:crated* matches Forestry:cratedLapis.
+Regex match found! Forestry:crated* matches Forestry:cratedLemon.
+Regex match found! Forestry:crated* matches Forestry:cratedMellowCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedMossyCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedMulch.
+Regex match found! Forestry:crated* matches Forestry:cratedMycelium.
+Regex match found! Forestry:crated* matches Forestry:cratedMysteriousCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBarley.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerryBlack.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerryBlight.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerryBlue.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerryDusk.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerryMalo.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerryRasp.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerrySky.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBerrySting.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBlockHeatsand.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBlockTainted.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaBlueGlowshroom.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaGreenGlowshroom.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogBloodwood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogDarkwood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogEucalyptus.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogFusewood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogGhostwood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogHopseed.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogSakura.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaLogWillow.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaPotashApple.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaPurpleGlowshroom.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingBlood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingDarkwood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingEucalyptus.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingFusewood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingGhostwood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingHopseed.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingMaple.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingPurpleheart.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingRedwood.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingSakura.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingSilverbell.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingTiger.
+Regex match found! Forestry:crated* matches Forestry:cratedNaturaSaplingWillow.
+Regex match found! Forestry:crated* matches Forestry:cratedNetherbrick.
+Regex match found! Forestry:crated* matches Forestry:cratedNetherrack.
+Regex match found! Forestry:crated* matches Forestry:cratedNetherwart.
+Regex match found! Forestry:crated* matches Forestry:cratedObsidian.
+Regex match found! Forestry:crated* matches Forestry:cratedPapaya.
+Regex match found! Forestry:crated* matches Forestry:cratedParchedCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedPeat.
+Regex match found! Forestry:crated* matches Forestry:cratedPhosphor.
+Regex match found! Forestry:crated* matches Forestry:cratedPlum.
+Regex match found! Forestry:crated* matches Forestry:cratedPodzol.
+Regex match found! Forestry:crated* matches Forestry:cratedPollen.
+Regex match found! Forestry:crated* matches Forestry:cratedPotatoes.
+Regex match found! Forestry:crated* matches Forestry:cratedPowderyCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedPropolis.
+Regex match found! Forestry:crated* matches Forestry:cratedRedSand.
+Regex match found! Forestry:crated* matches Forestry:cratedRedstone.
+Regex match found! Forestry:crated* matches Forestry:cratedReeds.
+Regex match found! Forestry:crated* matches Forestry:cratedRefractoryWax.
+Regex match found! Forestry:crated* matches Forestry:cratedResin.
+Regex match found! Forestry:crated* matches Forestry:cratedRoyalJelly.
+Regex match found! Forestry:crated* matches Forestry:cratedRubber.
+Regex match found! Forestry:crated* matches Forestry:cratedSand.
+Regex match found! Forestry:crated* matches Forestry:cratedSandstone.
+Regex match found! Forestry:crated* matches Forestry:cratedSaplings.
+Regex match found! Forestry:crated* matches Forestry:cratedScrap.
+Regex match found! Forestry:crated* matches Forestry:cratedSeeds.
+Regex match found! Forestry:crated* matches Forestry:cratedSilkyCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedSilver.
+Regex match found! Forestry:crated* matches Forestry:cratedSimmeringCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedSoulsand.
+Regex match found! Forestry:crated* matches Forestry:cratedSpruceSapling.
+Regex match found! Forestry:crated* matches Forestry:cratedSpruceWood.
+Regex match found! Forestry:crated* matches Forestry:cratedStone.
+Regex match found! Forestry:crated* matches Forestry:cratedStringyCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedTin.
+Regex match found! Forestry:crated* matches Forestry:cratedWalnut.
+Regex match found! Forestry:crated* matches Forestry:cratedWheat.
+Regex match found! Forestry:crated* matches Forestry:cratedWheatenCombs.
+Regex match found! Forestry:crated* matches Forestry:cratedWood.
+Found ItemStack Forestry:cratedAcaciaSapling. 64xitem.cratedAcaciaSapling@0
+Found ItemStack Forestry:cratedAcaciaWood. 64xitem.cratedAcaciaWood@0
+Found ItemStack Forestry:cratedApatite. 64xitem.cratedApatite@0
+Found ItemStack Forestry:cratedApples. 64xitem.cratedApples@0
+Found ItemStack Forestry:cratedAsh. 64xitem.cratedAsh@0
+Found ItemStack Forestry:cratedBeeswax. 64xitem.cratedBeeswax@0
+Found ItemStack Forestry:cratedBirchSapling. 64xitem.cratedBirchSapling@0
+Found ItemStack Forestry:cratedBirchWood. 64xitem.cratedBirchWood@0
+Found ItemStack Forestry:cratedBogearth. 64xitem.cratedBogearth@0
+Found ItemStack Forestry:cratedBrass. 64xitem.cratedBrass@0
+Found ItemStack Forestry:cratedBrick. 64xitem.cratedBrick@0
+Found ItemStack Forestry:cratedBronze. 64xitem.cratedBronze@0
+Found ItemStack Forestry:cratedCacti. 64xitem.cratedCacti@0
+Found ItemStack Forestry:cratedCarrots. 64xitem.cratedCarrots@0
+Found ItemStack Forestry:cratedCharcoal. 64xitem.cratedCharcoal@0
+Found ItemStack Forestry:cratedCherry. 64xitem.cratedCherry@0
+Found ItemStack Forestry:cratedChestnut. 64xitem.cratedChestnut@0
+Found ItemStack Forestry:cratedClay. 64xitem.cratedClay@0
+Found ItemStack Forestry:cratedCoal. 64xitem.cratedCoal@0
+Found ItemStack Forestry:cratedCobblestone. 64xitem.cratedCobblestone@0
+Found ItemStack Forestry:cratedCocoaComb. 64xitem.cratedCocoaComb@0
+Found ItemStack Forestry:cratedCookies. 64xitem.cratedCookies@0
+Found ItemStack Forestry:cratedCopper. 64xitem.cratedCopper@0
+Found ItemStack Forestry:cratedCrystallinePollen. 64xitem.cratedCrystallinePollen@0
+Found ItemStack Forestry:cratedDarkOakSapling. 64xitem.cratedDarkOakSapling@0
+Found ItemStack Forestry:cratedDarkOakWood. 64xitem.cratedDarkOakWood@0
+Found ItemStack Forestry:cratedDates. 64xitem.cratedDates@0
+Found ItemStack Forestry:cratedDirt. 64xitem.cratedDirt@0
+Found ItemStack Forestry:cratedDrippingCombs. 64xitem.cratedDrippingCombs@0
+Found ItemStack Forestry:cratedFertilizer. 64xitem.cratedFertilizer@0
+Found ItemStack Forestry:cratedFrozenCombs. 64xitem.cratedFrozenCombs@0
+Found ItemStack Forestry:cratedGlowstone. 64xitem.cratedGlowstone@0
+Found ItemStack Forestry:cratedGravel. 64xitem.cratedGravel@0
+Found ItemStack Forestry:cratedHoneycombs. 64xitem.cratedHoneycombs@0
+Found ItemStack Forestry:cratedHoneydew. 64xitem.cratedHoneydew@0
+Found ItemStack Forestry:cratedHumus. 64xitem.cratedHumus@0
+Found ItemStack Forestry:cratedJungleSapling. 64xitem.cratedJungleSapling@0
+Found ItemStack Forestry:cratedJungleWood. 64xitem.cratedJungleWood@0
+Found ItemStack Forestry:cratedLapis. 64xitem.cratedLapis@0
+Found ItemStack Forestry:cratedLemon. 64xitem.cratedLemon@0
+Found ItemStack Forestry:cratedMellowCombs. 64xitem.cratedMellowCombs@0
+Found ItemStack Forestry:cratedMossyCombs. 64xitem.cratedMossyCombs@0
+Found ItemStack Forestry:cratedMulch. 64xitem.cratedMulch@0
+Found ItemStack Forestry:cratedMycelium. 64xitem.cratedMycelium@0
+Found ItemStack Forestry:cratedMysteriousCombs. 64xitem.cratedMysteriousCombs@0
+Found ItemStack Forestry:cratedNaturaBarley. 64xitem.cratedNaturaBarley@0
+Found ItemStack Forestry:cratedNaturaBerryBlack. 64xitem.cratedNaturaBerryBlack@0
+Found ItemStack Forestry:cratedNaturaBerryBlight. 64xitem.cratedNaturaBerryBlight@0
+Found ItemStack Forestry:cratedNaturaBerryBlue. 64xitem.cratedNaturaBerryBlue@0
+Found ItemStack Forestry:cratedNaturaBerryDusk. 64xitem.cratedNaturaBerryDusk@0
+Found ItemStack Forestry:cratedNaturaBerryMalo. 64xitem.cratedNaturaBerryMalo@0
+Found ItemStack Forestry:cratedNaturaBerryRasp. 64xitem.cratedNaturaBerryRasp@0
+Found ItemStack Forestry:cratedNaturaBerrySky. 64xitem.cratedNaturaBerrySky@0
+Found ItemStack Forestry:cratedNaturaBerrySting. 64xitem.cratedNaturaBerrySting@0
+Found ItemStack Forestry:cratedNaturaBlockHeatsand. 64xitem.cratedNaturaBlockHeatsand@0
+Found ItemStack Forestry:cratedNaturaBlockTainted. 64xitem.cratedNaturaBlockTainted@0
+Found ItemStack Forestry:cratedNaturaBlueGlowshroom. 64xitem.cratedNaturaBlueGlowshroom@0
+Found ItemStack Forestry:cratedNaturaGreenGlowshroom. 64xitem.cratedNaturaGreenGlowshroom@0
+Found ItemStack Forestry:cratedNaturaLogBloodwood. 64xitem.cratedNaturaLogBloodwood@0
+Found ItemStack Forestry:cratedNaturaLogDarkwood. 64xitem.cratedNaturaLogDarkwood@0
+Found ItemStack Forestry:cratedNaturaLogEucalyptus. 64xitem.cratedNaturaLogEucalyptus@0
+Found ItemStack Forestry:cratedNaturaLogFusewood. 64xitem.cratedNaturaLogFusewood@0
+Found ItemStack Forestry:cratedNaturaLogGhostwood. 64xitem.cratedNaturaLogGhostwood@0
+Found ItemStack Forestry:cratedNaturaLogHopseed. 64xitem.cratedNaturaLogHopseed@0
+Found ItemStack Forestry:cratedNaturaLogSakura. 64xitem.cratedNaturaLogSakura@0
+Found ItemStack Forestry:cratedNaturaLogWillow. 64xitem.cratedNaturaLogWillow@0
+Found ItemStack Forestry:cratedNaturaPotashApple. 64xitem.cratedNaturaPotashApple@0
+Found ItemStack Forestry:cratedNaturaPurpleGlowshroom. 64xitem.cratedNaturaPurpleGlowshroom@0
+Found ItemStack Forestry:cratedNaturaSaplingBlood. 64xitem.cratedNaturaSaplingBlood@0
+Found ItemStack Forestry:cratedNaturaSaplingDarkwood. 64xitem.cratedNaturaSaplingDarkwood@0
+Found ItemStack Forestry:cratedNaturaSaplingEucalyptus. 64xitem.cratedNaturaSaplingEucalyptus@0
+Found ItemStack Forestry:cratedNaturaSaplingFusewood. 64xitem.cratedNaturaSaplingFusewood@0
+Found ItemStack Forestry:cratedNaturaSaplingGhostwood. 64xitem.cratedNaturaSaplingGhostwood@0
+Found ItemStack Forestry:cratedNaturaSaplingHopseed. 64xitem.cratedNaturaSaplingHopseed@0
+Found ItemStack Forestry:cratedNaturaSaplingMaple. 64xitem.cratedNaturaSaplingMaple@0
+Found ItemStack Forestry:cratedNaturaSaplingPurpleheart. 64xitem.cratedNaturaSaplingPurpleheart@0
+Found ItemStack Forestry:cratedNaturaSaplingRedwood. 64xitem.cratedNaturaSaplingRedwood@0
+Found ItemStack Forestry:cratedNaturaSaplingSakura. 64xitem.cratedNaturaSaplingSakura@0
+Found ItemStack Forestry:cratedNaturaSaplingSilverbell. 64xitem.cratedNaturaSaplingSilverbell@0
+Found ItemStack Forestry:cratedNaturaSaplingTiger. 64xitem.cratedNaturaSaplingTiger@0
+Found ItemStack Forestry:cratedNaturaSaplingWillow. 64xitem.cratedNaturaSaplingWillow@0
+Found ItemStack Forestry:cratedNetherbrick. 64xitem.cratedNetherbrick@0
+Found ItemStack Forestry:cratedNetherrack. 64xitem.cratedNetherrack@0
+Found ItemStack Forestry:cratedNetherwart. 64xitem.cratedNetherwart@0
+Found ItemStack Forestry:cratedObsidian. 64xitem.cratedObsidian@0
+Found ItemStack Forestry:cratedPapaya. 64xitem.cratedPapaya@0
+Found ItemStack Forestry:cratedParchedCombs. 64xitem.cratedParchedCombs@0
+Found ItemStack Forestry:cratedPeat. 64xitem.cratedPeat@0
+Found ItemStack Forestry:cratedPhosphor. 64xitem.cratedPhosphor@0
+Found ItemStack Forestry:cratedPlum. 64xitem.cratedPlum@0
+Found ItemStack Forestry:cratedPodzol. 64xitem.cratedPodzol@0
+Found ItemStack Forestry:cratedPollen. 64xitem.cratedPollen@0
+Found ItemStack Forestry:cratedPotatoes. 64xitem.cratedPotatoes@0
+Found ItemStack Forestry:cratedPowderyCombs. 64xitem.cratedPowderyCombs@0
+Found ItemStack Forestry:cratedPropolis. 64xitem.cratedPropolis@0
+Found ItemStack Forestry:cratedRedSand. 64xitem.cratedRedSand@0
+Found ItemStack Forestry:cratedRedstone. 64xitem.cratedRedstone@0
+Found ItemStack Forestry:cratedReeds. 64xitem.cratedReeds@0
+Found ItemStack Forestry:cratedRefractoryWax. 64xitem.cratedRefractoryWax@0
+Found ItemStack Forestry:cratedResin. 64xitem.cratedResin@0
+Found ItemStack Forestry:cratedRoyalJelly. 64xitem.cratedRoyalJelly@0
+Found ItemStack Forestry:cratedRubber. 64xitem.cratedRubber@0
+Found ItemStack Forestry:cratedSand. 64xitem.cratedSand@0
+Found ItemStack Forestry:cratedSandstone. 64xitem.cratedSandstone@0
+Found ItemStack Forestry:cratedSaplings. 64xitem.cratedSaplings@0
+Found ItemStack Forestry:cratedScrap. 64xitem.cratedScrap@0
+Found ItemStack Forestry:cratedSeeds. 64xitem.cratedSeeds@0
+Found ItemStack Forestry:cratedSilkyCombs. 64xitem.cratedSilkyCombs@0
+Found ItemStack Forestry:cratedSilver. 64xitem.cratedSilver@0
+Found ItemStack Forestry:cratedSimmeringCombs. 64xitem.cratedSimmeringCombs@0
+Found ItemStack Forestry:cratedSoulsand. 64xitem.cratedSoulsand@0
+Found ItemStack Forestry:cratedSpruceSapling. 64xitem.cratedSpruceSapling@0
+Found ItemStack Forestry:cratedSpruceWood. 64xitem.cratedSpruceWood@0
+Found ItemStack Forestry:cratedStone. 64xitem.cratedStone@0
+Found ItemStack Forestry:cratedStringyCombs. 64xitem.cratedStringyCombs@0
+Found ItemStack Forestry:cratedTin. 64xitem.cratedTin@0
+Found ItemStack Forestry:cratedWalnut. 64xitem.cratedWalnut@0
+Found ItemStack Forestry:cratedWheat. 64xitem.cratedWheat@0
+Found ItemStack Forestry:cratedWheatenCombs. 64xitem.cratedWheatenCombs@0
+Found ItemStack Forestry:cratedWood. 64xitem.cratedWood@0
+hide called. Params: Forestry, butterfly*
+Regex match found! Forestry:butterfly* matches Forestry:butterflyGE.
+Found ItemStack Forestry:butterflyGE. 64xitem.for.butterflyGE@0
+hide called. Params: Forestry, serum*
+Regex match found! Forestry:serum* matches Forestry:serumGE.
+Found ItemStack Forestry:serumGE. 64xitem.for.serumGE@0
+hide called. Params: Forestry, caterpillar*
+Regex match found! Forestry:caterpillar* matches Forestry:caterpillarGE.
+Found ItemStack Forestry:caterpillarGE. 64xitem.for.caterpillarGE@0
+override called. Params: TwilightForest, item.tfspawnegg, 0
+Regex match found! TwilightForest:item.tfspawnegg matches TwilightForest:item.tfspawnegg.
+Found ItemStack TwilightForest:item.tfspawnegg. 64xitem.tfspawnegg@0
+hide called. Params: aobd, *
+Regex match found! aobd:* matches aobd:blockIridium.
+Regex match found! aobd:* matches aobd:bottle_aobdyellorium.
+Regex match found! aobd:* matches aobd:bottle_ardite.
+Regex match found! aobd:* matches aobd:bottle_cobalt.
+Regex match found! aobd:* matches aobd:bottle_draconium.
+Regex match found! aobd:* matches aobd:bottle_heeendium.
+Regex match found! aobd:* matches aobd:bottle_iridium.
+Regex match found! aobd:* matches aobd:bottle_lead.
+Regex match found! aobd:* matches aobd:bottle_mithril.
+Regex match found! aobd:* matches aobd:bottle_nickel.
+Regex match found! aobd:* matches aobd:bottle_platinum.
+Regex match found! aobd:* matches aobd:bottle_rutile.
+Regex match found! aobd:* matches aobd:bottle_silver.
+Regex match found! aobd:* matches aobd:bottle_steel.
+Regex match found! aobd:* matches aobd:bottle_temporal.
+Regex match found! aobd:* matches aobd:bottle_tin.
+Regex match found! aobd:* matches aobd:bottle_uranium.
+Regex match found! aobd:* matches aobd:clusterAluminium.
+Regex match found! aobd:* matches aobd:clusterArdite.
+Regex match found! aobd:* matches aobd:clusterCobalt.
+Regex match found! aobd:* matches aobd:clusterDraconium.
+Regex match found! aobd:* matches aobd:clusterHeeEndium.
+Regex match found! aobd:* matches aobd:clusterIridium.
+Regex match found! aobd:* matches aobd:clusterMithril.
+Regex match found! aobd:* matches aobd:clusterNickel.
+Regex match found! aobd:* matches aobd:clusterPlatinum.
+Regex match found! aobd:* matches aobd:clusterRutile.
+Regex match found! aobd:* matches aobd:clusterSteel.
+Regex match found! aobd:* matches aobd:clusterTemporal.
+Regex match found! aobd:* matches aobd:clusterUranium.
+Regex match found! aobd:* matches aobd:crushedAluminium.
+Regex match found! aobd:* matches aobd:crushedArdite.
+Regex match found! aobd:* matches aobd:crushedCobalt.
+Regex match found! aobd:* matches aobd:crushedDraconium.
+Regex match found! aobd:* matches aobd:crushedHeeEndium.
+Regex match found! aobd:* matches aobd:crushedIridium.
+Regex match found! aobd:* matches aobd:crushedMithril.
+Regex match found! aobd:* matches aobd:crushedNickel.
+Regex match found! aobd:* matches aobd:crushedPlatinum.
+Regex match found! aobd:* matches aobd:crushedPurifiedAluminium.
+Regex match found! aobd:* matches aobd:crushedPurifiedArdite.
+Regex match found! aobd:* matches aobd:crushedPurifiedCobalt.
+Regex match found! aobd:* matches aobd:crushedPurifiedDraconium.
+Regex match found! aobd:* matches aobd:crushedPurifiedHeeEndium.
+Regex match found! aobd:* matches aobd:crushedPurifiedIridium.
+Regex match found! aobd:* matches aobd:crushedPurifiedMithril.
+Regex match found! aobd:* matches aobd:crushedPurifiedNickel.
+Regex match found! aobd:* matches aobd:crushedPurifiedPlatinum.
+Regex match found! aobd:* matches aobd:crushedPurifiedRutile.
+Regex match found! aobd:* matches aobd:crushedPurifiedSteel.
+Regex match found! aobd:* matches aobd:crushedPurifiedTemporal.
+Regex match found! aobd:* matches aobd:crushedRutile.
+Regex match found! aobd:* matches aobd:crushedSteel.
+Regex match found! aobd:* matches aobd:crushedTemporal.
+Regex match found! aobd:* matches aobd:dustHeeEndium.
+Regex match found! aobd:* matches aobd:dustIridium.
+Regex match found! aobd:* matches aobd:dustRutile.
+Regex match found! aobd:* matches aobd:dustSteel.
+Regex match found! aobd:* matches aobd:dustTemporal.
+Regex match found! aobd:* matches aobd:dustTinyAluminium.
+Regex match found! aobd:* matches aobd:dustTinyArdite.
+Regex match found! aobd:* matches aobd:dustTinyCobalt.
+Regex match found! aobd:* matches aobd:dustTinyDraconium.
+Regex match found! aobd:* matches aobd:dustTinyHeeEndium.
+Regex match found! aobd:* matches aobd:dustTinyIridium.
+Regex match found! aobd:* matches aobd:dustTinyMithril.
+Regex match found! aobd:* matches aobd:dustTinyNickel.
+Regex match found! aobd:* matches aobd:dustTinyPlatinum.
+Regex match found! aobd:* matches aobd:dustTinyRutile.
+Regex match found! aobd:* matches aobd:dustTinySteel.
+Regex match found! aobd:* matches aobd:dustTinyTemporal.
+Regex match found! aobd:* matches aobd:dustTinyUranium.
+Regex match found! aobd:* matches aobd:dustUranium.
+Regex match found! aobd:* matches aobd:nuggetHeeEndium.
+Regex match found! aobd:* matches aobd:nuggetIridium.
+Regex match found! aobd:* matches aobd:nuggetUranium.
+Regex match found! aobd:* matches aobd:nuggetYellorium.
+Regex match found! aobd:* matches aobd:oreIridium.
+Regex match found! aobd:* matches aobd:oreSteel.
+Found ItemStack aobd:blockIridium. 64xtile.aobd.blockIridium@0
+Found ItemStack aobd:bottle_aobdyellorium. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@235b816c@0
+Found ItemStack aobd:bottle_ardite. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@47d7c352@0
+Found ItemStack aobd:bottle_cobalt. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@209e3f92@0
+Found ItemStack aobd:bottle_draconium. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@627b7154@0
+Found ItemStack aobd:bottle_heeendium. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@17f3691b@0
+Found ItemStack aobd:bottle_iridium. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@17834870@0
+Found ItemStack aobd:bottle_lead. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@635af50@0
+Found ItemStack aobd:bottle_mithril. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@7303c76@0
+Found ItemStack aobd:bottle_nickel. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@5bfa001d@0
+Found ItemStack aobd:bottle_platinum. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@34685f9d@0
+Found ItemStack aobd:bottle_rutile. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@4ee5ac8d@0
+Found ItemStack aobd:bottle_silver. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@2babe5a3@0
+Found ItemStack aobd:bottle_steel. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@20ccd0bd@0
+Found ItemStack aobd:bottle_temporal. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@1eb51087@0
+Found ItemStack aobd:bottle_tin. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@15efcf5b@0
+Found ItemStack aobd:bottle_uranium. 1xitem.aobd.glassBottle.ganymedes01.aobd.recipes.RecipesModule$MoltenMetal@3ea2924e@0
+Found ItemStack aobd:clusterAluminium. 64xitem.aobd.clusterAluminium@0
+Found ItemStack aobd:clusterArdite. 64xitem.aobd.clusterArdite@0
+Found ItemStack aobd:clusterCobalt. 64xitem.aobd.clusterCobalt@0
+Found ItemStack aobd:clusterDraconium. 64xitem.aobd.clusterDraconium@0
+Found ItemStack aobd:clusterHeeEndium. 64xitem.aobd.clusterHeeEndium@0
+Found ItemStack aobd:clusterIridium. 64xitem.aobd.clusterIridium@0
+Found ItemStack aobd:clusterMithril. 64xitem.aobd.clusterMithril@0
+Found ItemStack aobd:clusterNickel. 64xitem.aobd.clusterNickel@0
+Found ItemStack aobd:clusterPlatinum. 64xitem.aobd.clusterPlatinum@0
+Found ItemStack aobd:clusterRutile. 64xitem.aobd.clusterRutile@0
+Found ItemStack aobd:clusterSteel. 64xitem.aobd.clusterSteel@0
+Found ItemStack aobd:clusterTemporal. 64xitem.aobd.clusterTemporal@0
+Found ItemStack aobd:clusterUranium. 64xitem.aobd.clusterUranium@0
+Found ItemStack aobd:crushedAluminium. 64xitem.aobd.crushedAluminium@0
+Found ItemStack aobd:crushedArdite. 64xitem.aobd.crushedArdite@0
+Found ItemStack aobd:crushedCobalt. 64xitem.aobd.crushedCobalt@0
+Found ItemStack aobd:crushedDraconium. 64xitem.aobd.crushedDraconium@0
+Found ItemStack aobd:crushedHeeEndium. 64xitem.aobd.crushedHeeEndium@0
+Found ItemStack aobd:crushedIridium. 64xitem.aobd.crushedIridium@0
+Found ItemStack aobd:crushedMithril. 64xitem.aobd.crushedMithril@0
+Found ItemStack aobd:crushedNickel. 64xitem.aobd.crushedNickel@0
+Found ItemStack aobd:crushedPlatinum. 64xitem.aobd.crushedPlatinum@0
+Found ItemStack aobd:crushedPurifiedAluminium. 64xitem.aobd.crushedPurifiedAluminium@0
+Found ItemStack aobd:crushedPurifiedArdite. 64xitem.aobd.crushedPurifiedArdite@0
+Found ItemStack aobd:crushedPurifiedCobalt. 64xitem.aobd.crushedPurifiedCobalt@0
+Found ItemStack aobd:crushedPurifiedDraconium. 64xitem.aobd.crushedPurifiedDraconium@0
+Found ItemStack aobd:crushedPurifiedHeeEndium. 64xitem.aobd.crushedPurifiedHeeEndium@0
+Found ItemStack aobd:crushedPurifiedIridium. 64xitem.aobd.crushedPurifiedIridium@0
+Found ItemStack aobd:crushedPurifiedMithril. 64xitem.aobd.crushedPurifiedMithril@0
+Found ItemStack aobd:crushedPurifiedNickel. 64xitem.aobd.crushedPurifiedNickel@0
+Found ItemStack aobd:crushedPurifiedPlatinum. 64xitem.aobd.crushedPurifiedPlatinum@0
+Found ItemStack aobd:crushedPurifiedRutile. 64xitem.aobd.crushedPurifiedRutile@0
+Found ItemStack aobd:crushedPurifiedSteel. 64xitem.aobd.crushedPurifiedSteel@0
+Found ItemStack aobd:crushedPurifiedTemporal. 64xitem.aobd.crushedPurifiedTemporal@0
+Found ItemStack aobd:crushedRutile. 64xitem.aobd.crushedRutile@0
+Found ItemStack aobd:crushedSteel. 64xitem.aobd.crushedSteel@0
+Found ItemStack aobd:crushedTemporal. 64xitem.aobd.crushedTemporal@0
+Found ItemStack aobd:dustHeeEndium. 64xitem.aobd.dustHeeEndium@0
+Found ItemStack aobd:dustIridium. 64xitem.aobd.dustIridium@0
+Found ItemStack aobd:dustRutile. 64xitem.aobd.dustRutile@0
+Found ItemStack aobd:dustSteel. 64xitem.aobd.dustSteel@0
+Found ItemStack aobd:dustTemporal. 64xitem.aobd.dustTemporal@0
+Found ItemStack aobd:dustTinyAluminium. 64xitem.aobd.dustTinyAluminium@0
+Found ItemStack aobd:dustTinyArdite. 64xitem.aobd.dustTinyArdite@0
+Found ItemStack aobd:dustTinyCobalt. 64xitem.aobd.dustTinyCobalt@0
+Found ItemStack aobd:dustTinyDraconium. 64xitem.aobd.dustTinyDraconium@0
+Found ItemStack aobd:dustTinyHeeEndium. 64xitem.aobd.dustTinyHeeEndium@0
+Found ItemStack aobd:dustTinyIridium. 64xitem.aobd.dustTinyIridium@0
+Found ItemStack aobd:dustTinyMithril. 64xitem.aobd.dustTinyMithril@0
+Found ItemStack aobd:dustTinyNickel. 64xitem.aobd.dustTinyNickel@0
+Found ItemStack aobd:dustTinyPlatinum. 64xitem.aobd.dustTinyPlatinum@0
+Found ItemStack aobd:dustTinyRutile. 64xitem.aobd.dustTinyRutile@0
+Found ItemStack aobd:dustTinySteel. 64xitem.aobd.dustTinySteel@0
+Found ItemStack aobd:dustTinyTemporal. 64xitem.aobd.dustTinyTemporal@0
+Found ItemStack aobd:dustTinyUranium. 64xitem.aobd.dustTinyUranium@0
+Found ItemStack aobd:dustUranium. 64xitem.aobd.dustUranium@0
+Found ItemStack aobd:nuggetHeeEndium. 64xitem.aobd.nuggetHeeEndium@0
+Found ItemStack aobd:nuggetIridium. 64xitem.aobd.nuggetIridium@0
+Found ItemStack aobd:nuggetUranium. 64xitem.aobd.nuggetUranium@0
+Found ItemStack aobd:nuggetYellorium. 64xitem.aobd.nuggetYellorium@0
+Found ItemStack aobd:oreIridium. 64xitem.aobd.oreIridium@0
+Found ItemStack aobd:oreSteel. 64xitem.aobd.oreSteel@0
+override called. Params: chisel, *, 0
+Regex match found! chisel:* matches chisel:acacia_planks.
+Regex match found! chisel:* matches chisel:aluminum_stairs.0.
+Regex match found! chisel:* matches chisel:aluminum_stairs.1.
+Regex match found! chisel:* matches chisel:aluminum_stairs.2.
+Regex match found! chisel:* matches chisel:aluminum_stairs.3.
+Regex match found! chisel:* matches chisel:aluminum_stairs.4.
+Regex match found! chisel:* matches chisel:aluminum_stairs.5.
+Regex match found! chisel:* matches chisel:aluminum_stairs.6.
+Regex match found! chisel:* matches chisel:aluminum_stairs.7.
+Regex match found! chisel:* matches chisel:aluminumblock.
+Regex match found! chisel:* matches chisel:amber.
+Regex match found! chisel:* matches chisel:andesite.
+Regex match found! chisel:* matches chisel:antiBlock.
+Regex match found! chisel:* matches chisel:arcane.
+Regex match found! chisel:* matches chisel:autoChisel.
+Regex match found! chisel:* matches chisel:ballomoss.
+Regex match found! chisel:* matches chisel:beacon.
+Regex match found! chisel:* matches chisel:birch_planks.
+Regex match found! chisel:* matches chisel:bloodBrick.
+Regex match found! chisel:* matches chisel:bloodRune.
+Regex match found! chisel:* matches chisel:bookshelf.
+Regex match found! chisel:* matches chisel:brickCustom.
+Regex match found! chisel:* matches chisel:bronzeblock.
+Regex match found! chisel:* matches chisel:carpet.
+Regex match found! chisel:* matches chisel:carpet_block.
+Regex match found! chisel:* matches chisel:chisel.
+Regex match found! chisel:* matches chisel:cloud.
+Regex match found! chisel:* matches chisel:cloudinabottle.
+Regex match found! chisel:* matches chisel:cobblestone.
+Regex match found! chisel:* matches chisel:concrete.
+Regex match found! chisel:* matches chisel:copperblock.
+Regex match found! chisel:* matches chisel:dark_oak_planks.
+Regex match found! chisel:* matches chisel:diamondChisel.
+Regex match found! chisel:* matches chisel:diamond_block.
+Regex match found! chisel:* matches chisel:diorite.
+Regex match found! chisel:* matches chisel:dirt.
+Regex match found! chisel:* matches chisel:emerald_block.
+Regex match found! chisel:* matches chisel:end_Stone.
+Regex match found! chisel:* matches chisel:factoryblock.
+Regex match found! chisel:* matches chisel:factoryblock2.
+Regex match found! chisel:* matches chisel:fantasyblock.
+Regex match found! chisel:* matches chisel:fantasyblock2.
+Regex match found! chisel:* matches chisel:futura.
+Regex match found! chisel:* matches chisel:futuraCircuit.
+Regex match found! chisel:* matches chisel:glass.
+Regex match found! chisel:* matches chisel:glass2.
+Regex match found! chisel:* matches chisel:glass_pane.
+Regex match found! chisel:* matches chisel:glowstone.
+Regex match found! chisel:* matches chisel:gold2.
+Regex match found! chisel:* matches chisel:gold_block.
+Regex match found! chisel:* matches chisel:granite.
+Regex match found! chisel:* matches chisel:grimstone.
+Regex match found! chisel:* matches chisel:hexLargePlating.
+Regex match found! chisel:* matches chisel:hexPlating.
+Regex match found! chisel:* matches chisel:holystone.
+Regex match found! chisel:* matches chisel:ice.
+Regex match found! chisel:* matches chisel:ice_pillar.
+Regex match found! chisel:* matches chisel:ice_stairs.0.
+Regex match found! chisel:* matches chisel:ice_stairs.1.
+Regex match found! chisel:* matches chisel:ice_stairs.2.
+Regex match found! chisel:* matches chisel:ice_stairs.3.
+Regex match found! chisel:* matches chisel:ice_stairs.4.
+Regex match found! chisel:* matches chisel:ice_stairs.5.
+Regex match found! chisel:* matches chisel:ice_stairs.6.
+Regex match found! chisel:* matches chisel:ice_stairs.7.
+Regex match found! chisel:* matches chisel:iron2.
+Regex match found! chisel:* matches chisel:iron_bars.
+Regex match found! chisel:* matches chisel:iron_block.
+Regex match found! chisel:* matches chisel:jackolantern1.
+Regex match found! chisel:* matches chisel:jackolantern10.
+Regex match found! chisel:* matches chisel:jackolantern11.
+Regex match found! chisel:* matches chisel:jackolantern12.
+Regex match found! chisel:* matches chisel:jackolantern13.
+Regex match found! chisel:* matches chisel:jackolantern14.
+Regex match found! chisel:* matches chisel:jackolantern15.
+Regex match found! chisel:* matches chisel:jackolantern16.
+Regex match found! chisel:* matches chisel:jackolantern2.
+Regex match found! chisel:* matches chisel:jackolantern3.
+Regex match found! chisel:* matches chisel:jackolantern4.
+Regex match found! chisel:* matches chisel:jackolantern5.
+Regex match found! chisel:* matches chisel:jackolantern6.
+Regex match found! chisel:* matches chisel:jackolantern7.
+Regex match found! chisel:* matches chisel:jackolantern8.
+Regex match found! chisel:* matches chisel:jackolantern9.
+Regex match found! chisel:* matches chisel:jungle_planks.
+Regex match found! chisel:* matches chisel:laboratoryblock.
+Regex match found! chisel:* matches chisel:lapis_block.
+Regex match found! chisel:* matches chisel:lavastone.
+Regex match found! chisel:* matches chisel:leadblock.
+Regex match found! chisel:* matches chisel:leaves.
+Regex match found! chisel:* matches chisel:limestone.
+Regex match found! chisel:* matches chisel:limestone_slab.
+Regex match found! chisel:* matches chisel:limestone_slab_top.
+Regex match found! chisel:* matches chisel:limestone_stairs.0.
+Regex match found! chisel:* matches chisel:limestone_stairs.1.
+Regex match found! chisel:* matches chisel:limestone_stairs.2.
+Regex match found! chisel:* matches chisel:limestone_stairs.3.
+Regex match found! chisel:* matches chisel:limestone_stairs.4.
+Regex match found! chisel:* matches chisel:limestone_stairs.5.
+Regex match found! chisel:* matches chisel:limestone_stairs.6.
+Regex match found! chisel:* matches chisel:limestone_stairs.7.
+Regex match found! chisel:* matches chisel:marble.
+Regex match found! chisel:* matches chisel:marble_pillar.
+Regex match found! chisel:* matches chisel:marble_pillar_slab.
+Regex match found! chisel:* matches chisel:marble_pillar_slab_top.
+Regex match found! chisel:* matches chisel:marble_slab.
+Regex match found! chisel:* matches chisel:marble_slab_top.
+Regex match found! chisel:* matches chisel:marble_stairs.0.
+Regex match found! chisel:* matches chisel:marble_stairs.1.
+Regex match found! chisel:* matches chisel:marble_stairs.2.
+Regex match found! chisel:* matches chisel:marble_stairs.3.
+Regex match found! chisel:* matches chisel:marble_stairs.4.
+Regex match found! chisel:* matches chisel:marble_stairs.5.
+Regex match found! chisel:* matches chisel:marble_stairs.6.
+Regex match found! chisel:* matches chisel:marble_stairs.7.
+Regex match found! chisel:* matches chisel:mossy_cobblestone.
+Regex match found! chisel:* matches chisel:mossy_templeblock.
+Regex match found! chisel:* matches chisel:nation.
+Regex match found! chisel:* matches chisel:nether_brick.
+Regex match found! chisel:* matches chisel:netherrack.
+Regex match found! chisel:* matches chisel:oak_planks.
+Regex match found! chisel:* matches chisel:obsidian.
+Regex match found! chisel:* matches chisel:obsidianChisel.
+Regex match found! chisel:* matches chisel:obsidian_snakestone.
+Regex match found! chisel:* matches chisel:packedice.
+Regex match found! chisel:* matches chisel:packedice_pillar.
+Regex match found! chisel:* matches chisel:packedice_stairs.0.
+Regex match found! chisel:* matches chisel:packedice_stairs.1.
+Regex match found! chisel:* matches chisel:packedice_stairs.2.
+Regex match found! chisel:* matches chisel:packedice_stairs.3.
+Regex match found! chisel:* matches chisel:packedice_stairs.4.
+Regex match found! chisel:* matches chisel:packedice_stairs.5.
+Regex match found! chisel:* matches chisel:packedice_stairs.6.
+Regex match found! chisel:* matches chisel:packedice_stairs.7.
+Regex match found! chisel:* matches chisel:paperwall.
+Regex match found! chisel:* matches chisel:paperwall_block.
+Regex match found! chisel:* matches chisel:present.
+Regex match found! chisel:* matches chisel:pumpkin1.
+Regex match found! chisel:* matches chisel:pumpkin10.
+Regex match found! chisel:* matches chisel:pumpkin11.
+Regex match found! chisel:* matches chisel:pumpkin12.
+Regex match found! chisel:* matches chisel:pumpkin13.
+Regex match found! chisel:* matches chisel:pumpkin14.
+Regex match found! chisel:* matches chisel:pumpkin15.
+Regex match found! chisel:* matches chisel:pumpkin16.
+Regex match found! chisel:* matches chisel:pumpkin2.
+Regex match found! chisel:* matches chisel:pumpkin3.
+Regex match found! chisel:* matches chisel:pumpkin4.
+Regex match found! chisel:* matches chisel:pumpkin5.
+Regex match found! chisel:* matches chisel:pumpkin6.
+Regex match found! chisel:* matches chisel:pumpkin7.
+Regex match found! chisel:* matches chisel:pumpkin8.
+Regex match found! chisel:* matches chisel:pumpkin9.
+Regex match found! chisel:* matches chisel:purpur.
+Regex match found! chisel:* matches chisel:rebel.
+Regex match found! chisel:* matches chisel:redstone_block.
+Regex match found! chisel:* matches chisel:road_line.
+Regex match found! chisel:* matches chisel:sand_snakestone.
+Regex match found! chisel:* matches chisel:sandstone.
+Regex match found! chisel:* matches chisel:sandstone2.
+Regex match found! chisel:* matches chisel:sandstone_scribbles.
+Regex match found! chisel:* matches chisel:silverblock.
+Regex match found! chisel:* matches chisel:smashingrock.
+Regex match found! chisel:* matches chisel:spruce_planks.
+Regex match found! chisel:* matches chisel:stained_glass_brown.
+Regex match found! chisel:* matches chisel:stained_glass_forestry.
+Regex match found! chisel:* matches chisel:stained_glass_lightgray.
+Regex match found! chisel:* matches chisel:stained_glass_pane_brown.
+Regex match found! chisel:* matches chisel:stained_glass_pane_lightgray.
+Regex match found! chisel:* matches chisel:stained_glass_pane_magenta.
+Regex match found! chisel:* matches chisel:stained_glass_pane_pink.
+Regex match found! chisel:* matches chisel:stained_glass_pane_purple.
+Regex match found! chisel:* matches chisel:stained_glass_pane_red.
+Regex match found! chisel:* matches chisel:stained_glass_pane_white.
+Regex match found! chisel:* matches chisel:stained_glass_pane_yellow.
+Regex match found! chisel:* matches chisel:stained_glass_white.
+Regex match found! chisel:* matches chisel:stained_glass_yellow.
+Regex match found! chisel:* matches chisel:steelblock.
+Regex match found! chisel:* matches chisel:stone_snakestone.
+Regex match found! chisel:* matches chisel:stonebricksmooth.
+Regex match found! chisel:* matches chisel:tallow.
+Regex match found! chisel:* matches chisel:technical.
+Regex match found! chisel:* matches chisel:technical2.
+Regex match found! chisel:* matches chisel:technical3.
+Regex match found! chisel:* matches chisel:technical4.
+Regex match found! chisel:* matches chisel:templeblock.
+Regex match found! chisel:* matches chisel:thaumium.
+Regex match found! chisel:* matches chisel:tinblock.
+Regex match found! chisel:* matches chisel:torch1.
+Regex match found! chisel:* matches chisel:torch10.
+Regex match found! chisel:* matches chisel:torch2.
+Regex match found! chisel:* matches chisel:torch3.
+Regex match found! chisel:* matches chisel:torch4.
+Regex match found! chisel:* matches chisel:torch5.
+Regex match found! chisel:* matches chisel:torch6.
+Regex match found! chisel:* matches chisel:torch7.
+Regex match found! chisel:* matches chisel:torch8.
+Regex match found! chisel:* matches chisel:torch9.
+Regex match found! chisel:* matches chisel:tyrian.
+Regex match found! chisel:* matches chisel:upgrade.
+Regex match found! chisel:* matches chisel:uraniumblock.
+Regex match found! chisel:* matches chisel:valentines.
+Regex match found! chisel:* matches chisel:voidstone.
+Regex match found! chisel:* matches chisel:voidstone2.
+Regex match found! chisel:* matches chisel:voidstonePillar.
+Regex match found! chisel:* matches chisel:voidstonePillar2.
+Regex match found! chisel:* matches chisel:voidstoneRunic.
+Regex match found! chisel:* matches chisel:warningSign.
+Regex match found! chisel:* matches chisel:waterstone.
+Regex match found! chisel:* matches chisel:woolen_clay.
+Found ItemStack chisel:acacia_planks. 64xtile.chisel.acacia_planks@0
+Found ItemStack chisel:aluminum_stairs.0. 64xtile.chisel.aluminum_stairs.0@0
+Found ItemStack chisel:aluminum_stairs.1. 64xtile.chisel.aluminum_stairs.1@0
+Found ItemStack chisel:aluminum_stairs.2. 64xtile.chisel.aluminum_stairs.2@0
+Found ItemStack chisel:aluminum_stairs.3. 64xtile.chisel.aluminum_stairs.3@0
+Found ItemStack chisel:aluminum_stairs.4. 64xtile.chisel.aluminum_stairs.4@0
+Found ItemStack chisel:aluminum_stairs.5. 64xtile.chisel.aluminum_stairs.5@0
+Found ItemStack chisel:aluminum_stairs.6. 64xtile.chisel.aluminum_stairs.6@0
+Found ItemStack chisel:aluminum_stairs.7. 64xtile.chisel.aluminum_stairs.7@0
+Found ItemStack chisel:aluminumblock. 64xtile.chisel.aluminumblock@0
+Found ItemStack chisel:amber. 64xtile.chisel.amber@0
+Found ItemStack chisel:andesite. 64xtile.chisel.andesite@0
+Found ItemStack chisel:antiBlock. 64xtile.chisel.antiBlock@0
+Found ItemStack chisel:arcane. 64xtile.chisel.arcane@0
+Found ItemStack chisel:autoChisel. 64xtile.chisel.autoChisel@0
+Found ItemStack chisel:ballomoss. 64xitem.ballMoss@0
+Found ItemStack chisel:beacon. 64xtile.chisel.beacon@0
+Found ItemStack chisel:birch_planks. 64xtile.chisel.birch_planks@0
+Found ItemStack chisel:bloodBrick. 64xtile.chisel.bloodBrick@0
+Found ItemStack chisel:bloodRune. 64xtile.chisel.bloodRune@0
+Found ItemStack chisel:bookshelf. 64xtile.chisel.bookshelf@0
+Found ItemStack chisel:brickCustom. 64xtile.chisel.brickCustom@0
+Found ItemStack chisel:bronzeblock. 64xtile.chisel.bronzeblock@0
+Found ItemStack chisel:carpet. 64xtile.chisel.carpet@0
+Found ItemStack chisel:carpet_block. 64xtile.chisel.carpet_block@0
+Found ItemStack chisel:chisel. 1xitem.null@0
+Found ItemStack chisel:cloud. 64xtile.chisel.cloud@0
+Found ItemStack chisel:cloudinabottle. 64xitem.cloudBottle@0
+Found ItemStack chisel:cobblestone. 64xtile.chisel.cobblestone@0
+Found ItemStack chisel:concrete. 64xtile.chisel.concrete@0
+Found ItemStack chisel:copperblock. 64xtile.chisel.copperblock@0
+Found ItemStack chisel:dark_oak_planks. 64xtile.chisel.dark_oak_planks@0
+Found ItemStack chisel:diamondChisel. 1xitem.null@0
+Found ItemStack chisel:diamond_block. 64xtile.chisel.diamond_block@0
+Found ItemStack chisel:diorite. 64xtile.chisel.diorite@0
+Found ItemStack chisel:dirt. 64xtile.chisel.dirt@0
+Found ItemStack chisel:emerald_block. 64xtile.chisel.emerald_block@0
+Found ItemStack chisel:end_Stone. 64xtile.chisel.end_Stone@0
+Found ItemStack chisel:factoryblock. 64xtile.chisel.factoryblock@0
+Found ItemStack chisel:factoryblock2. 64xtile.chisel.factoryblock2@0
+Found ItemStack chisel:fantasyblock. 64xtile.chisel.fantasyblock@0
+Found ItemStack chisel:fantasyblock2. 64xtile.chisel.fantasyblock2@0
+Found ItemStack chisel:futura. 64xtile.chisel.futura@0
+Found ItemStack chisel:futuraCircuit. 64xtile.chisel.futuraCircuit@0
+Found ItemStack chisel:glass. 64xtile.chisel.glass@0
+Found ItemStack chisel:glass2. 64xtile.chisel.glass2@0
+Found ItemStack chisel:glass_pane. 64xtile.chisel.glass_pane@0
+Found ItemStack chisel:glowstone. 64xtile.chisel.glowstone@0
+Found ItemStack chisel:gold2. 64xtile.chisel.gold2@0
+Found ItemStack chisel:gold_block. 64xtile.chisel.gold_block@0
+Found ItemStack chisel:granite. 64xtile.chisel.granite@0
+Found ItemStack chisel:grimstone. 64xtile.chisel.grimstone@0
+Found ItemStack chisel:hexLargePlating. 64xtile.chisel.hexLargePlating@0
+Found ItemStack chisel:hexPlating. 64xtile.chisel.hexPlating@0
+Found ItemStack chisel:holystone. 64xtile.chisel.holystone@0
+Found ItemStack chisel:ice. 64xtile.chisel.ice@0
+Found ItemStack chisel:ice_pillar. 64xtile.chisel.ice_pillar@0
+Found ItemStack chisel:ice_stairs.0. 64xtile.chisel.ice_stairs.0@0
+Found ItemStack chisel:ice_stairs.1. 64xtile.chisel.ice_stairs.1@0
+Found ItemStack chisel:ice_stairs.2. 64xtile.chisel.ice_stairs.2@0
+Found ItemStack chisel:ice_stairs.3. 64xtile.chisel.ice_stairs.3@0
+Found ItemStack chisel:ice_stairs.4. 64xtile.chisel.ice_stairs.4@0
+Found ItemStack chisel:ice_stairs.5. 64xtile.chisel.ice_stairs.5@0
+Found ItemStack chisel:ice_stairs.6. 64xtile.chisel.ice_stairs.6@0
+Found ItemStack chisel:ice_stairs.7. 64xtile.chisel.ice_stairs.7@0
+Found ItemStack chisel:iron2. 64xtile.chisel.iron2@0
+Found ItemStack chisel:iron_bars. 64xtile.chisel.iron_bars@0
+Found ItemStack chisel:iron_block. 64xtile.chisel.iron_block@0
+Found ItemStack chisel:jackolantern1. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern10. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern11. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern12. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern13. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern14. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern15. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern16. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern2. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern3. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern4. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern5. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern6. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern7. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern8. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern9. 64xtile.litpumpkin@0
+Found ItemStack chisel:jungle_planks. 64xtile.chisel.jungle_planks@0
+Found ItemStack chisel:laboratoryblock. 64xtile.chisel.laboratoryblock@0
+Found ItemStack chisel:lapis_block. 64xtile.chisel.lapis_block@0
+Found ItemStack chisel:lavastone. 64xtile.chisel.lavastone@0
+Found ItemStack chisel:leadblock. 64xtile.chisel.leadblock@0
+Found ItemStack chisel:leaves. 64xtile.chisel.leaves@0
+Found ItemStack chisel:limestone. 64xtile.chisel.limestone@0
+Found ItemStack chisel:limestone_slab. 64xtile.chisel.limestone_slab@0
+Found ItemStack chisel:limestone_slab_top. 64xtile.chisel.limestone_slab@0
+Found ItemStack chisel:limestone_stairs.0. 64xtile.chisel.limestone_stairs.0@0
+Found ItemStack chisel:limestone_stairs.1. 64xtile.chisel.limestone_stairs.1@0
+Found ItemStack chisel:limestone_stairs.2. 64xtile.chisel.limestone_stairs.2@0
+Found ItemStack chisel:limestone_stairs.3. 64xtile.chisel.limestone_stairs.3@0
+Found ItemStack chisel:limestone_stairs.4. 64xtile.chisel.limestone_stairs.4@0
+Found ItemStack chisel:limestone_stairs.5. 64xtile.chisel.limestone_stairs.5@0
+Found ItemStack chisel:limestone_stairs.6. 64xtile.chisel.limestone_stairs.6@0
+Found ItemStack chisel:limestone_stairs.7. 64xtile.chisel.limestone_stairs.7@0
+Found ItemStack chisel:marble. 64xtile.chisel.marble@0
+Found ItemStack chisel:marble_pillar. 64xtile.chisel.marble_pillar@0
+Found ItemStack chisel:marble_pillar_slab. 64xtile.chisel.marble_pillar_slab@0
+Found ItemStack chisel:marble_pillar_slab_top. 64xtile.chisel.marble_pillar_slab@0
+Found ItemStack chisel:marble_slab. 64xtile.chisel.marble_slab@0
+Found ItemStack chisel:marble_slab_top. 64xtile.chisel.marble_slab@0
+Found ItemStack chisel:marble_stairs.0. 64xtile.chisel.marble_stairs.0@0
+Found ItemStack chisel:marble_stairs.1. 64xtile.chisel.marble_stairs.1@0
+Found ItemStack chisel:marble_stairs.2. 64xtile.chisel.marble_stairs.2@0
+Found ItemStack chisel:marble_stairs.3. 64xtile.chisel.marble_stairs.3@0
+Found ItemStack chisel:marble_stairs.4. 64xtile.chisel.marble_stairs.4@0
+Found ItemStack chisel:marble_stairs.5. 64xtile.chisel.marble_stairs.5@0
+Found ItemStack chisel:marble_stairs.6. 64xtile.chisel.marble_stairs.6@0
+Found ItemStack chisel:marble_stairs.7. 64xtile.chisel.marble_stairs.7@0
+Found ItemStack chisel:mossy_cobblestone. 64xtile.chisel.mossy_cobblestone@0
+Found ItemStack chisel:mossy_templeblock. 64xtile.chisel.mossy_templeblock@0
+Found ItemStack chisel:nation. 64xtile.chisel.nation@0
+Found ItemStack chisel:nether_brick. 64xtile.chisel.nether_brick@0
+Found ItemStack chisel:netherrack. 64xtile.chisel.netherrack@0
+Found ItemStack chisel:oak_planks. 64xtile.chisel.oak_planks@0
+Found ItemStack chisel:obsidian. 64xtile.chisel.obsidian@0
+Found ItemStack chisel:obsidianChisel. 1xitem.null@0
+Found ItemStack chisel:obsidian_snakestone. 64xtile.chisel.obsidianSnakestone@0
+Found ItemStack chisel:packedice. 64xtile.chisel.packedice@0
+Found ItemStack chisel:packedice_pillar. 64xtile.chisel.packedice_pillar@0
+Found ItemStack chisel:packedice_stairs.0. 64xtile.chisel.packedice_stairs.0@0
+Found ItemStack chisel:packedice_stairs.1. 64xtile.chisel.packedice_stairs.1@0
+Found ItemStack chisel:packedice_stairs.2. 64xtile.chisel.packedice_stairs.2@0
+Found ItemStack chisel:packedice_stairs.3. 64xtile.chisel.packedice_stairs.3@0
+Found ItemStack chisel:packedice_stairs.4. 64xtile.chisel.packedice_stairs.4@0
+Found ItemStack chisel:packedice_stairs.5. 64xtile.chisel.packedice_stairs.5@0
+Found ItemStack chisel:packedice_stairs.6. 64xtile.chisel.packedice_stairs.6@0
+Found ItemStack chisel:packedice_stairs.7. 64xtile.chisel.packedice_stairs.7@0
+Found ItemStack chisel:paperwall. 64xtile.chisel.paperwall@0
+Found ItemStack chisel:paperwall_block. 64xtile.chisel.paperwall_block@0
+Found ItemStack chisel:present. 64xtile.chisel.present@0
+Found ItemStack chisel:pumpkin1. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin10. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin11. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin12. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin13. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin14. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin15. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin16. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin2. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin3. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin4. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin5. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin6. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin7. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin8. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin9. 64xtile.pumpkin@0
+Found ItemStack chisel:purpur. 64xtile.chisel.purpur@0
+Found ItemStack chisel:rebel. 64xtile.chisel.rebel@0
+Found ItemStack chisel:redstone_block. 64xtile.chisel.redstone_block@0
+Found ItemStack chisel:road_line. 64xtile.chisel.road_line@0
+Found ItemStack chisel:sand_snakestone. 64xtile.chisel.snakestoneSand@0
+Found ItemStack chisel:sandstone. 64xtile.chisel.sandstone@0
+Found ItemStack chisel:sandstone2. 64xtile.chisel.sandstone2@0
+Found ItemStack chisel:sandstone_scribbles. 64xtile.chisel.sandstone_scribbles@0
+Found ItemStack chisel:silverblock. 64xtile.chisel.silverblock@0
+Found ItemStack chisel:smashingrock. 64xitem.smashingRock@0
+Found ItemStack chisel:spruce_planks. 64xtile.chisel.spruce_planks@0
+Found ItemStack chisel:stained_glass_brown. 64xtile.chisel.stained_glass_brown@0
+Found ItemStack chisel:stained_glass_forestry. 64xtile.chisel.stained_glass_forestry@0
+Found ItemStack chisel:stained_glass_lightgray. 64xtile.chisel.stained_glass_lightgray@0
+Found ItemStack chisel:stained_glass_pane_brown. 64xtile.chisel.stained_glass_pane_brown@0
+Found ItemStack chisel:stained_glass_pane_lightgray. 64xtile.chisel.stained_glass_pane_lightgray@0
+Found ItemStack chisel:stained_glass_pane_magenta. 64xtile.chisel.stained_glass_pane_magenta@0
+Found ItemStack chisel:stained_glass_pane_pink. 64xtile.chisel.stained_glass_pane_pink@0
+Found ItemStack chisel:stained_glass_pane_purple. 64xtile.chisel.stained_glass_pane_purple@0
+Found ItemStack chisel:stained_glass_pane_red. 64xtile.chisel.stained_glass_pane_red@0
+Found ItemStack chisel:stained_glass_pane_white. 64xtile.chisel.stained_glass_pane_white@0
+Found ItemStack chisel:stained_glass_pane_yellow. 64xtile.chisel.stained_glass_pane_yellow@0
+Found ItemStack chisel:stained_glass_white. 64xtile.chisel.stained_glass_white@0
+Found ItemStack chisel:stained_glass_yellow. 64xtile.chisel.stained_glass_yellow@0
+Found ItemStack chisel:steelblock. 64xtile.chisel.steelblock@0
+Found ItemStack chisel:stone_snakestone. 64xtile.chisel.snakestoneStone@0
+Found ItemStack chisel:stonebricksmooth. 64xtile.chisel.stonebricksmooth@0
+Found ItemStack chisel:tallow. 64xtile.chisel.tallow@0
+Found ItemStack chisel:technical. 64xtile.chisel.technical@0
+Found ItemStack chisel:technical2. 64xtile.chisel.technical2@0
+Found ItemStack chisel:technical3. 64xtile.chisel.technical3@0
+Found ItemStack chisel:technical4. 64xtile.chisel.technical4@0
+Found ItemStack chisel:templeblock. 64xtile.chisel.templeblock@0
+Found ItemStack chisel:thaumium. 64xtile.chisel.thaumium@0
+Found ItemStack chisel:tinblock. 64xtile.chisel.tinblock@0
+Found ItemStack chisel:torch1. 64xtile.torch@0
+Found ItemStack chisel:torch10. 64xtile.torch@0
+Found ItemStack chisel:torch2. 64xtile.torch@0
+Found ItemStack chisel:torch3. 64xtile.torch@0
+Found ItemStack chisel:torch4. 64xtile.torch@0
+Found ItemStack chisel:torch5. 64xtile.torch@0
+Found ItemStack chisel:torch6. 64xtile.torch@0
+Found ItemStack chisel:torch7. 64xtile.torch@0
+Found ItemStack chisel:torch8. 64xtile.torch@0
+Found ItemStack chisel:torch9. 64xtile.torch@0
+Found ItemStack chisel:tyrian. 64xtile.chisel.tyrian@0
+Found ItemStack chisel:upgrade. 1xitem.upgrade@0
+Found ItemStack chisel:uraniumblock. 64xtile.chisel.uraniumblock@0
+Found ItemStack chisel:valentines. 64xtile.chisel.valentines@0
+Found ItemStack chisel:voidstone. 64xtile.chisel.voidstone@0
+Found ItemStack chisel:voidstone2. 64xtile.chisel.voidstone2@0
+Found ItemStack chisel:voidstonePillar. 64xtile.chisel.voidstonePillar@0
+Found ItemStack chisel:voidstonePillar2. 64xtile.chisel.voidstonePillar2@0
+Found ItemStack chisel:voidstoneRunic. 64xtile.chisel.voidstoneRunic@0
+Found ItemStack chisel:warningSign. 64xtile.chisel.warningSign@0
+Found ItemStack chisel:waterstone. 64xtile.chisel.waterstone@0
+Found ItemStack chisel:woolen_clay. 64xtile.chisel.woolen_clay@0
+hide called. Params: CaveBiomes, *
+Regex match found! CaveBiomes:* matches CaveBiomes:CinderShroom.
+Regex match found! CaveBiomes:* matches CaveBiomes:DerangedGolem_spawner.
+Regex match found! CaveBiomes:* matches CaveBiomes:Mummy_spawner.
+Regex match found! CaveBiomes:* matches CaveBiomes:Pharoh_spawner.
+Regex match found! CaveBiomes:* matches CaveBiomes:SkeletonKnight_spawner.
+Regex match found! CaveBiomes:* matches CaveBiomes:SkeletonMage_spawner.
+Regex match found! CaveBiomes:* matches CaveBiomes:Witch_spawner.
+Regex match found! CaveBiomes:* matches CaveBiomes:cave_orchid.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_lava_igneous_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_lava_metamorphic_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_lava_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_water_dirt.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_water_igneous_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_water_metamorphic_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_water_sedimentary_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:dripping_water_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:foxfire.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_igneous_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_lit_redstone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_metamorphic_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_redstone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_roots.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sandstone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_sedimentary_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:frozen_stone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:glowstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:hanging_foxfire.
+Regex match found! CaveBiomes:* matches CaveBiomes:ice_patch.
+Regex match found! CaveBiomes:* matches CaveBiomes:icicle_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:icicle_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:icicle_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_lavacrust.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:igneous_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:lava_vine.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:lit_redstone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_lavacrust.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:metamorphic_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:moss.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_dirt.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_igneous_cobblestone.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_igneous_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_metamorphic_cobblestone.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_metamorphic_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_sedimentary_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:mossy_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:mummy_boots.
+Regex match found! CaveBiomes:* matches CaveBiomes:mummy_chestplate.
+Regex match found! CaveBiomes:* matches CaveBiomes:mummy_helmet.
+Regex match found! CaveBiomes:* matches CaveBiomes:mummy_leggings.
+Regex match found! CaveBiomes:* matches CaveBiomes:pharaoh_boots.
+Regex match found! CaveBiomes:* matches CaveBiomes:pharaoh_chestplate.
+Regex match found! CaveBiomes:* matches CaveBiomes:pharaoh_helmet.
+Regex match found! CaveBiomes:* matches CaveBiomes:pharaoh_leggings.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_lava_igneous_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_lava_metamorphic_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_lava_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_water_igneous_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_water_metamorphic_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_water_sedimentary_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:raining_water_stone.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:redstone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:roots.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:sandstone_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentarySand.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:sedimentary_stalagmite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_column.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_lavacrust.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_stalactite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_stalactite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_stalactite_tip.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_stalagmite_base.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_stalagmite_small.
+Regex match found! CaveBiomes:* matches CaveBiomes:stone_stalagmite_tip.
+Found ItemStack CaveBiomes:CinderShroom. 64xtile.CinderShroom@0
+Found ItemStack CaveBiomes:DerangedGolem_spawner. 64xtile.DerangedGolem_spawner@0
+Found ItemStack CaveBiomes:Mummy_spawner. 64xtile.Mummy_spawner@0
+Found ItemStack CaveBiomes:Pharoh_spawner. 64xtile.Pharoh_spawner@0
+Found ItemStack CaveBiomes:SkeletonKnight_spawner. 64xtile.SkeletonKnight_spawner@0
+Found ItemStack CaveBiomes:SkeletonMage_spawner. 64xtile.SkeletonMage_spawner@0
+Found ItemStack CaveBiomes:Witch_spawner. 64xtile.Witch_spawner@0
+Found ItemStack CaveBiomes:cave_orchid. 64xtile.cave_orchid@0
+Found ItemStack CaveBiomes:dripping_lava_igneous_stone. 64xtile.dripping_lava_igneous_stone@0
+Found ItemStack CaveBiomes:dripping_lava_metamorphic_stone. 64xtile.dripping_lava_metamorphic_stone@0
+Found ItemStack CaveBiomes:dripping_lava_stone. 64xtile.dripping_lava_stone@0
+Found ItemStack CaveBiomes:dripping_water_dirt. 64xtile.dripping_water_dirt@0
+Found ItemStack CaveBiomes:dripping_water_igneous_stone. 64xtile.dripping_water_igneous_stone@0
+Found ItemStack CaveBiomes:dripping_water_metamorphic_stone. 64xtile.dripping_water_metamorphic_stone@0
+Found ItemStack CaveBiomes:dripping_water_sedimentary_stone. 64xtile.dripping_water_sedimentary_stone@0
+Found ItemStack CaveBiomes:dripping_water_stone. 64xtile.dripping_water_stone@0
+Found ItemStack CaveBiomes:foxfire. 64xtile.foxfire@0
+Found ItemStack CaveBiomes:frozen_igneous_column. 64xtile.frozen_igneous_column@0
+Found ItemStack CaveBiomes:frozen_igneous_stalactite_base. 64xtile.frozen_igneous_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_igneous_stalactite_small. 64xtile.frozen_igneous_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_igneous_stalactite_tip. 64xtile.frozen_igneous_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_igneous_stalagmite_base. 64xtile.frozen_igneous_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_igneous_stalagmite_small. 64xtile.frozen_igneous_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_igneous_stalagmite_tip. 64xtile.frozen_igneous_stalagmite_tip@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_column. 64xtile.frozen_lit_redstone_column@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalactite_base. 64xtile.frozen_lit_redstone_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalactite_small. 64xtile.frozen_lit_redstone_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalactite_tip. 64xtile.frozen_lit_redstone_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalagmite_base. 64xtile.frozen_lit_redstone_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalagmite_small. 64xtile.frozen_lit_redstone_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_lit_redstone_stalagmite_tip. 64xtile.frozen_lit_redstone_stalagmite_tip@0
+Found ItemStack CaveBiomes:frozen_metamorphic_column. 64xtile.frozen_metamorphic_column@0
+Found ItemStack CaveBiomes:frozen_metamorphic_stalactite_base. 64xtile.frozen_metamorphic_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_metamorphic_stalactite_small. 64xtile.frozen_metamorphic_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_metamorphic_stalactite_tip. 64xtile.frozen_metamorphic_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_metamorphic_stalagmite_base. 64xtile.frozen_metamorphic_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_metamorphic_stalagmite_small. 64xtile.frozen_metamorphic_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_metamorphic_stalagmite_tip. 64xtile.frozen_metamorphic_stalagmite_tip@0
+Found ItemStack CaveBiomes:frozen_redstone_column. 64xtile.frozen_redstone_column@0
+Found ItemStack CaveBiomes:frozen_redstone_stalactite_base. 64xtile.frozen_redstone_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_redstone_stalactite_small. 64xtile.frozen_redstone_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_redstone_stalactite_tip. 64xtile.frozen_redstone_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_redstone_stalagmite_base. 64xtile.frozen_redstone_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_redstone_stalagmite_small. 64xtile.frozen_redstone_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_redstone_stalagmite_tip. 64xtile.frozen_redstone_stalagmite_tip@0
+Found ItemStack CaveBiomes:frozen_roots. 64xtile.frozen_roots@0
+Found ItemStack CaveBiomes:frozen_sandstone_column. 64xtile.frozen_sandstone_column@0
+Found ItemStack CaveBiomes:frozen_sandstone_stalactite_base. 64xtile.frozen_sandstone_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_sandstone_stalactite_small. 64xtile.frozen_sandstone_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_sandstone_stalactite_tip. 64xtile.frozen_sandstone_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_sandstone_stalagmite_base. 64xtile.frozen_sandstone_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_sandstone_stalagmite_small. 64xtile.frozen_sandstone_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_sandstone_stalagmite_tip. 64xtile.frozen_sandstone_stalagmite_tip@0
+Found ItemStack CaveBiomes:frozen_sedimentary_column. 64xtile.frozen_sedimentary_column@0
+Found ItemStack CaveBiomes:frozen_sedimentary_stalactite_base. 64xtile.frozen_sedimentary_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_sedimentary_stalactite_small. 64xtile.frozen_sedimentary_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_sedimentary_stalactite_tip. 64xtile.frozen_sedimentary_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_sedimentary_stalagmite_base. 64xtile.frozen_sedimentary_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_sedimentary_stalagmite_small. 64xtile.frozen_sedimentary_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_sedimentary_stalagmite_tip. 64xtile.frozen_sedimentary_stalagmite_tip@0
+Found ItemStack CaveBiomes:frozen_stone_column. 64xtile.frozen_stone_column@0
+Found ItemStack CaveBiomes:frozen_stone_stalactite_base. 64xtile.frozen_stone_stalactite_base@0
+Found ItemStack CaveBiomes:frozen_stone_stalactite_small. 64xtile.frozen_stone_stalactite_small@0
+Found ItemStack CaveBiomes:frozen_stone_stalactite_tip. 64xtile.frozen_stone_stalactite_tip@0
+Found ItemStack CaveBiomes:frozen_stone_stalagmite_base. 64xtile.frozen_stone_stalagmite_base@0
+Found ItemStack CaveBiomes:frozen_stone_stalagmite_small. 64xtile.frozen_stone_stalagmite_small@0
+Found ItemStack CaveBiomes:frozen_stone_stalagmite_tip. 64xtile.frozen_stone_stalagmite_tip@0
+Found ItemStack CaveBiomes:glowstone_stalactite_small. 64xtile.glowstone_stalactite_small@0
+Found ItemStack CaveBiomes:hanging_foxfire. 64xtile.hanging_foxfire@0
+Found ItemStack CaveBiomes:ice_patch. 64xtile.ice_patch@0
+Found ItemStack CaveBiomes:icicle_base. 64xtile.icicle_base@0
+Found ItemStack CaveBiomes:icicle_small. 64xtile.icicle_small@0
+Found ItemStack CaveBiomes:icicle_tip. 64xtile.icicle_tip@0
+Found ItemStack CaveBiomes:igneous_column. 64xtile.igneous_column@0
+Found ItemStack CaveBiomes:igneous_lavacrust. 64xtile.igneous_lavacrust@0
+Found ItemStack CaveBiomes:igneous_stalactite_base. 64xtile.igneous_stalactite_base@0
+Found ItemStack CaveBiomes:igneous_stalactite_small. 64xtile.igneous_stalactite_small@0
+Found ItemStack CaveBiomes:igneous_stalactite_tip. 64xtile.igneous_stalactite_tip@0
+Found ItemStack CaveBiomes:igneous_stalagmite_base. 64xtile.igneous_stalagmite_base@0
+Found ItemStack CaveBiomes:igneous_stalagmite_small. 64xtile.igneous_stalagmite_small@0
+Found ItemStack CaveBiomes:igneous_stalagmite_tip. 64xtile.igneous_stalagmite_tip@0
+Found ItemStack CaveBiomes:lava_vine. 64xtile.lava_vine@0
+Found ItemStack CaveBiomes:lit_redstone_column. 64xtile.lit_redstone_column@0
+Found ItemStack CaveBiomes:lit_redstone_stalactite_base. 64xtile.lit_redstone_stalactite_base@0
+Found ItemStack CaveBiomes:lit_redstone_stalactite_small. 64xtile.lit_redstone_stalactite_small@0
+Found ItemStack CaveBiomes:lit_redstone_stalactite_tip. 64xtile.lit_redstone_stalactite_tip@0
+Found ItemStack CaveBiomes:lit_redstone_stalagmite_base. 64xtile.lit_redstone_stalagmite_base@0
+Found ItemStack CaveBiomes:lit_redstone_stalagmite_small. 64xtile.lit_redstone_stalagmite_small@0
+Found ItemStack CaveBiomes:lit_redstone_stalagmite_tip. 64xtile.lit_redstone_stalagmite_tip@0
+Found ItemStack CaveBiomes:metamorphic_column. 64xtile.metamorphic_column@0
+Found ItemStack CaveBiomes:metamorphic_lavacrust. 64xtile.metamorphic_lavacrust@0
+Found ItemStack CaveBiomes:metamorphic_stalactite_base. 64xtile.metamorphic_stalactite_base@0
+Found ItemStack CaveBiomes:metamorphic_stalactite_small. 64xtile.metamorphic_stalactite_small@0
+Found ItemStack CaveBiomes:metamorphic_stalactite_tip. 64xtile.metamorphic_stalactite_tip@0
+Found ItemStack CaveBiomes:metamorphic_stalagmite_base. 64xtile.metamorphic_stalagmite_base@0
+Found ItemStack CaveBiomes:metamorphic_stalagmite_small. 64xtile.metamorphic_stalagmite_small@0
+Found ItemStack CaveBiomes:metamorphic_stalagmite_tip. 64xtile.metamorphic_stalagmite_tip@0
+Found ItemStack CaveBiomes:moss. 64xitem.moss@0
+Found ItemStack CaveBiomes:mossy_dirt. 64xtile.mossy_dirt@0
+Found ItemStack CaveBiomes:mossy_igneous_cobblestone. 64xtile.mossy_igneous_cobblestone@0
+Found ItemStack CaveBiomes:mossy_igneous_stone. 64xtile.mossy_igneous_stone@0
+Found ItemStack CaveBiomes:mossy_metamorphic_cobblestone. 64xtile.mossy_metamorphic_cobblestone@0
+Found ItemStack CaveBiomes:mossy_metamorphic_stone. 64xtile.mossy_metamorphic_stone@0
+Found ItemStack CaveBiomes:mossy_sedimentary_stone. 64xtile.mossy_sedimentary_stone@0
+Found ItemStack CaveBiomes:mossy_stone. 64xtile.mossy_stone@0
+Found ItemStack CaveBiomes:mummy_boots. 1xitem.mummy_boots@0
+Found ItemStack CaveBiomes:mummy_chestplate. 1xitem.mummy_chestplate@0
+Found ItemStack CaveBiomes:mummy_helmet. 1xitem.mummy_helmet@0
+Found ItemStack CaveBiomes:mummy_leggings. 1xitem.mummy_leggings@0
+Found ItemStack CaveBiomes:pharaoh_boots. 1xitem.pharaoh_boots@0
+Found ItemStack CaveBiomes:pharaoh_chestplate. 1xitem.pharaoh_chestplate@0
+Found ItemStack CaveBiomes:pharaoh_helmet. 1xitem.pharaoh_helmet@0
+Found ItemStack CaveBiomes:pharaoh_leggings. 1xitem.pharaoh_leggings@0
+Found ItemStack CaveBiomes:raining_lava_igneous_stone. 64xtile.raining_lava_igneous_stone@0
+Found ItemStack CaveBiomes:raining_lava_metamorphic_stone. 64xtile.raining_lava_metamorphic_stone@0
+Found ItemStack CaveBiomes:raining_lava_stone. 64xtile.raining_lava_stone@0
+Found ItemStack CaveBiomes:raining_water_igneous_stone. 64xtile.raining_water_igneous_stone@0
+Found ItemStack CaveBiomes:raining_water_metamorphic_stone. 64xtile.raining_water_metamorphic_stone@0
+Found ItemStack CaveBiomes:raining_water_sedimentary_stone. 64xtile.raining_water_sedimentary_stone@0
+Found ItemStack CaveBiomes:raining_water_stone. 64xtile.raining_water_stone@0
+Found ItemStack CaveBiomes:redstone_column. 64xtile.redstone_column@0
+Found ItemStack CaveBiomes:redstone_stalactite_base. 64xtile.redstone_stalactite_base@0
+Found ItemStack CaveBiomes:redstone_stalactite_small. 64xtile.redstone_stalactite_small@0
+Found ItemStack CaveBiomes:redstone_stalactite_tip. 64xtile.redstone_stalactite_tip@0
+Found ItemStack CaveBiomes:redstone_stalagmite_base. 64xtile.redstone_stalagmite_base@0
+Found ItemStack CaveBiomes:redstone_stalagmite_small. 64xtile.redstone_stalagmite_small@0
+Found ItemStack CaveBiomes:redstone_stalagmite_tip. 64xtile.redstone_stalagmite_tip@0
+Found ItemStack CaveBiomes:roots. 64xtile.roots@0
+Found ItemStack CaveBiomes:sandstone_column. 64xtile.sandstone_column@0
+Found ItemStack CaveBiomes:sandstone_stalactite_base. 64xtile.sandstone_stalactite_base@0
+Found ItemStack CaveBiomes:sandstone_stalactite_small. 64xtile.sandstone_stalactite_small@0
+Found ItemStack CaveBiomes:sandstone_stalactite_tip. 64xtile.sandstone_stalactite_tip@0
+Found ItemStack CaveBiomes:sandstone_stalagmite_base. 64xtile.sandstone_stalagmite_base@0
+Found ItemStack CaveBiomes:sandstone_stalagmite_small. 64xtile.sandstone_stalagmite_small@0
+Found ItemStack CaveBiomes:sandstone_stalagmite_tip. 64xtile.sandstone_stalagmite_tip@0
+Found ItemStack CaveBiomes:sedimentarySand. 64xtile.sedimentarySand@0
+Found ItemStack CaveBiomes:sedimentary_column. 64xtile.sedimentary_column@0
+Found ItemStack CaveBiomes:sedimentary_stalactite_base. 64xtile.sedimentary_stalactite_base@0
+Found ItemStack CaveBiomes:sedimentary_stalactite_small. 64xtile.sedimentary_stalactite_small@0
+Found ItemStack CaveBiomes:sedimentary_stalactite_tip. 64xtile.sedimentary_stalactite_tip@0
+Found ItemStack CaveBiomes:sedimentary_stalagmite_base. 64xtile.sedimentary_stalagmite_base@0
+Found ItemStack CaveBiomes:sedimentary_stalagmite_small. 64xtile.sedimentary_stalagmite_small@0
+Found ItemStack CaveBiomes:sedimentary_stalagmite_tip. 64xtile.sedimentary_stalagmite_tip@0
+Found ItemStack CaveBiomes:stone_column. 64xtile.stone_column@0
+Found ItemStack CaveBiomes:stone_lavacrust. 64xtile.stone_lavacrust@0
+Found ItemStack CaveBiomes:stone_stalactite_base. 64xtile.stone_stalactite_base@0
+Found ItemStack CaveBiomes:stone_stalactite_small. 64xtile.stone_stalactite_small@0
+Found ItemStack CaveBiomes:stone_stalactite_tip. 64xtile.stone_stalactite_tip@0
+Found ItemStack CaveBiomes:stone_stalagmite_base. 64xtile.stone_stalagmite_base@0
+Found ItemStack CaveBiomes:stone_stalagmite_small. 64xtile.stone_stalagmite_small@0
+Found ItemStack CaveBiomes:stone_stalagmite_tip. 64xtile.stone_stalagmite_tip@0
+hide called. Params: UndergroundBiomes, *
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:button.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:fossilPiece.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousCobblestone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousCobblestoneFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousCobblestoneHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousStone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousStoneBrick.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousStoneBrickFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousStoneBrickHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousStoneFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneousStoneHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_monsterStoneEgg.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreCoal.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreDiamond.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreEmerald.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreGold.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreIron.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreLapis.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_oreRedstone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_tconstruct.stoneore.3.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_tconstruct.stoneore.4.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:igneous_tconstruct.stoneore.5.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:ligniteCoal.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicCobblestone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicCobblestoneFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicCobblestoneHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicStone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicStoneBrick.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicStoneBrickFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicStoneBrickHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicStoneFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphicStoneHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_monsterStoneEgg.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreCoal.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreDiamond.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreEmerald.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreGold.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreIron.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreLapis.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_oreRedstone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_tconstruct.stoneore.3.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_tconstruct.stoneore.4.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:metamorphic_tconstruct.stoneore.5.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentaryStone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentaryStoneFullSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentaryStoneHalfSlab.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_monsterStoneEgg.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreCoal.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreDiamond.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreEmerald.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreGold.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreIron.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreLapis.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_oreRedstone.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_tconstruct.stoneore.3.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_tconstruct.stoneore.4.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:sedimentary_tconstruct.stoneore.5.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:stairs.
+Regex match found! UndergroundBiomes:* matches UndergroundBiomes:wall.
+Found ItemStack UndergroundBiomes:button. 64xtile.button@0
+Found ItemStack UndergroundBiomes:fossilPiece. 64xitem.fossilPiece@0
+Found ItemStack UndergroundBiomes:igneousCobblestone. 64xtile.igneousCobblestone@0
+Found ItemStack UndergroundBiomes:igneousCobblestoneFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneousCobblestoneHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneousStone. 64xtile.igneousStone@0
+Found ItemStack UndergroundBiomes:igneousStoneBrick. 64xtile.igneousStoneBrick@0
+Found ItemStack UndergroundBiomes:igneousStoneBrickFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneousStoneBrickHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneousStoneFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneousStoneHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_monsterStoneEgg. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreCoal. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreDiamond. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreEmerald. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreGold. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreIron. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreLapis. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_oreRedstone. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_tconstruct.stoneore.3. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_tconstruct.stoneore.4. 64xtile.null@0
+Found ItemStack UndergroundBiomes:igneous_tconstruct.stoneore.5. 64xtile.null@0
+Found ItemStack UndergroundBiomes:ligniteCoal. 64xitem.ligniteCoal@0
+Found ItemStack UndergroundBiomes:metamorphicCobblestone. 64xtile.metamorphicCobblestone@0
+Found ItemStack UndergroundBiomes:metamorphicCobblestoneFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphicCobblestoneHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphicStone. 64xtile.metamorphicStone@0
+Found ItemStack UndergroundBiomes:metamorphicStoneBrick. 64xtile.metamorphicStoneBrick@0
+Found ItemStack UndergroundBiomes:metamorphicStoneBrickFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphicStoneBrickHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphicStoneFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphicStoneHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_monsterStoneEgg. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreCoal. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreDiamond. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreEmerald. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreGold. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreIron. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreLapis. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_oreRedstone. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_tconstruct.stoneore.3. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_tconstruct.stoneore.4. 64xtile.null@0
+Found ItemStack UndergroundBiomes:metamorphic_tconstruct.stoneore.5. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentaryStone. 64xtile.sedimentaryStone@0
+Found ItemStack UndergroundBiomes:sedimentaryStoneFullSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentaryStoneHalfSlab. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_monsterStoneEgg. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreCoal. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreDiamond. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreEmerald. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreGold. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreIron. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreLapis. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_oreRedstone. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_tconstruct.stoneore.3. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_tconstruct.stoneore.4. 64xtile.null@0
+Found ItemStack UndergroundBiomes:sedimentary_tconstruct.stoneore.5. 64xtile.null@0
+Found ItemStack UndergroundBiomes:stairs. 64xtile.stairs@0
+Found ItemStack UndergroundBiomes:wall. 64xtile.wall@0
+hide called. Params: weepingangels, *
+Regex match found! weepingangels:* matches weepingangels:angelArrow.
+Regex match found! weepingangels:* matches weepingangels:angelTear.
+Regex match found! weepingangels:* matches weepingangels:plinth.
+Found ItemStack weepingangels:angelArrow. 64xitem.weepingangels:angelArrow@0
+Found ItemStack weepingangels:angelTear. 64xitem.weepingangels:angelTear@0
+Found ItemStack weepingangels:plinth. 64xtile.weepingangels:plinth@0
+override called. Params: ForbiddenMagic, MobCrystal, 0
+Regex match found! ForbiddenMagic:MobCrystal matches ForbiddenMagic:MobCrystal.
+Found ItemStack ForbiddenMagic:MobCrystal. 1xitem.MobCrystal@0
+hide called. Params: thaumcraftneiplugin, Aspect
+Regex match found! thaumcraftneiplugin:Aspect matches thaumcraftneiplugin:Aspect.
+Found ItemStack thaumcraftneiplugin:Aspect. 64xitem.itemAspect@0
+hide called. Params: Thaumcraft, ItemSpawnerEgg
+Regex match found! Thaumcraft:ItemSpawnerEgg matches Thaumcraft:ItemSpawnerEgg.
+Found ItemStack Thaumcraft:ItemSpawnerEgg. 64xitem.ItemSpawnerEgg@0
+hide called. Params: runicdungeons, tile.*
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.ancientBookshelf.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.chaoticSand.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.compressedObsidian.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.corridorKeyhole.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.demonicBrick.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.obsidianRunicBrick.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.rottingLadder.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.rottingSlab.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runeSpawner.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicBrick.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicCircle.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicCircleLarge.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicCircleSmall.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicGlass.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicKeyhole.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicLamp.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicObsidianGlass.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicPillar.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicPortal.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.runicSteelBlock.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.spikeTrap.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.survivalDemonicBrick.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.survivalRunicBrick.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.survivalRunicLamp.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.survivalRunicPillar.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.witherRunicBrick.
+Regex match found! runicdungeons:tile.* matches runicdungeons:tile.witherRunicGlass.
+Found ItemStack runicdungeons:tile.ancientBookshelf. 64xtile.ancientBookshelf@0
+Found ItemStack runicdungeons:tile.chaoticSand. 64xtile.chaoticSand@0
+Found ItemStack runicdungeons:tile.compressedObsidian. 64xtile.compressedObsidian@0
+Found ItemStack runicdungeons:tile.corridorKeyhole. 64xtile.corridorKeyhole@0
+Found ItemStack runicdungeons:tile.demonicBrick. 64xtile.demonicBrick@0
+Found ItemStack runicdungeons:tile.obsidianRunicBrick. 64xtile.obsidianRunicBrick@0
+Found ItemStack runicdungeons:tile.rottingLadder. 64xtile.rottingLadder@0
+Found ItemStack runicdungeons:tile.rottingSlab. 64xtile.rottingSlab@0
+Found ItemStack runicdungeons:tile.runeSpawner. 64xtile.runeSpawner@0
+Found ItemStack runicdungeons:tile.runicBrick. 64xtile.runicBrick@0
+Found ItemStack runicdungeons:tile.runicCircle. 64xtile.runicCircle@0
+Found ItemStack runicdungeons:tile.runicCircleLarge. 64xtile.runicCircleLarge@0
+Found ItemStack runicdungeons:tile.runicCircleSmall. 64xtile.runicCircleSmall@0
+Found ItemStack runicdungeons:tile.runicGlass. 64xtile.runicGlass@0
+Found ItemStack runicdungeons:tile.runicKeyhole. 64xtile.runicKeyhole@0
+Found ItemStack runicdungeons:tile.runicLamp. 64xtile.runicLamp@0
+Found ItemStack runicdungeons:tile.runicObsidianGlass. 64xtile.runicObsidianGlass@0
+Found ItemStack runicdungeons:tile.runicPillar. 64xtile.runicPillar@0
+Found ItemStack runicdungeons:tile.runicPortal. 64xtile.runicPortal@0
+Found ItemStack runicdungeons:tile.runicSteelBlock. 64xtile.runicSteelBlock@0
+Found ItemStack runicdungeons:tile.spikeTrap. 64xtile.spikeTrap@0
+Found ItemStack runicdungeons:tile.survivalDemonicBrick. 64xtile.survivalDemonicBrick@0
+Found ItemStack runicdungeons:tile.survivalRunicBrick. 64xtile.survivalRunicBrick@0
+Found ItemStack runicdungeons:tile.survivalRunicLamp. 64xtile.survivalRunicLamp@0
+Found ItemStack runicdungeons:tile.survivalRunicPillar. 64xtile.survivalRunicPillar@0
+Found ItemStack runicdungeons:tile.witherRunicBrick. 64xtile.witherRunicBrick@0
+Found ItemStack runicdungeons:tile.witherRunicGlass. 64xtile.witherRunicGlass@0
+hide called. Params: runicdungeons, *Crystal
+Regex match found! runicdungeons:*Crystal matches runicdungeons:item.airCrystal.
+Regex match found! runicdungeons:*Crystal matches runicdungeons:item.earthCrystal.
+Regex match found! runicdungeons:*Crystal matches runicdungeons:item.fireCrystal.
+Regex match found! runicdungeons:*Crystal matches runicdungeons:item.waterCrystal.
+Found ItemStack runicdungeons:item.airCrystal. 64xitem.airCrystal@0
+Found ItemStack runicdungeons:item.earthCrystal. 64xitem.earthCrystal@0
+Found ItemStack runicdungeons:item.fireCrystal. 64xitem.fireCrystal@0
+Found ItemStack runicdungeons:item.waterCrystal. 64xitem.waterCrystal@0
+hide called. Params: rftools, knownDimlet
+Regex match found! rftools:knownDimlet matches rftools:knownDimlet.
+Found ItemStack rftools:knownDimlet. 16xitem.KnownDimlet@0
+hide called. Params: rftools, proxyBlock
+Regex match found! rftools:proxyBlock matches rftools:proxyBlock.
+Found ItemStack rftools:proxyBlock. 64xtile.proxyBlock@0
+hide called. Params: rftools, invisibleShieldBlock
+Regex match found! rftools:invisibleShieldBlock matches rftools:invisibleShieldBlock.
+Found ItemStack rftools:invisibleShieldBlock. 64xtile.invisibleShieldBlock@0
+hide called. Params: rftools, noTickInvisibleShieldBlock
+Regex match found! rftools:noTickInvisibleShieldBlock matches rftools:noTickInvisibleShieldBlock.
+Found ItemStack rftools:noTickInvisibleShieldBlock. 64xtile.invisibleShieldBlock@0
+hide called. Params: rftools, solidShieldBlock
+Regex match found! rftools:solidShieldBlock matches rftools:solidShieldBlock.
+Found ItemStack rftools:solidShieldBlock. 64xtile.solidShieldBlock@0
+hide called. Params: rftools, noTickolidShieldBlock
+Regex match found! rftools:noTickolidShieldBlock matches rftools:noTickolidShieldBlock.
+Found ItemStack rftools:noTickolidShieldBlock. 64xtile.solidShieldBlock@0
+hide called. Params: reccomplex, *
+Regex match found! reccomplex:* matches reccomplex:artifactGenerationTag.
+Regex match found! reccomplex:* matches reccomplex:blockSelector.
+Regex match found! reccomplex:* matches reccomplex:blockSelectorFloating.
+Regex match found! reccomplex:* matches reccomplex:bookGenerationTag.
+Regex match found! reccomplex:* matches reccomplex:inventoryGenerationSingleTag.
+Regex match found! reccomplex:* matches reccomplex:inventoryGenerationTag.
+Regex match found! reccomplex:* matches reccomplex:inventory_generation_component_tag.
+Regex match found! reccomplex:* matches reccomplex:mazeGenerator.
+Regex match found! reccomplex:* matches reccomplex:naturalFloor.
+Regex match found! reccomplex:* matches reccomplex:negativeSpace.
+Regex match found! reccomplex:* matches reccomplex:structureGenerator.
+Regex match found! reccomplex:* matches reccomplex:weighted_command_block.
+Found ItemStack reccomplex:artifactGenerationTag. 64xitem.artifactGenerationTag@0
+Found ItemStack reccomplex:blockSelector. 64xitem.blockSelector@0
+Found ItemStack reccomplex:blockSelectorFloating. 64xitem.blockSelectorFloating@0
+Found ItemStack reccomplex:bookGenerationTag. 64xitem.bookGenerationTag@0
+Found ItemStack reccomplex:inventoryGenerationSingleTag. 64xitem.inventoryGenerationSingleTag@0
+Found ItemStack reccomplex:inventoryGenerationTag. 64xitem.inventoryGenerationTag@0
+Found ItemStack reccomplex:inventory_generation_component_tag. 64xitem.inventoryGenerationComponentTag@0
+Found ItemStack reccomplex:mazeGenerator. 64xtile.mazeGenerator@0
+Found ItemStack reccomplex:naturalFloor. 64xtile.naturalFloor@0
+Found ItemStack reccomplex:negativeSpace. 64xtile.negativeSpace@0
+Found ItemStack reccomplex:structureGenerator. 64xtile.structureGenerator@0
+Found ItemStack reccomplex:weighted_command_block. 64xtile.spawnCommand@0
+hide called. Params: witchery, spiritflowing
+Regex match found! witchery:spiritflowing matches witchery:spiritflowing.
+Found ItemStack witchery:spiritflowing. 64xtile.witchery:spiritflowing@0
+hide called. Params: witchery, hollowtears
+Regex match found! witchery:hollowtears matches witchery:hollowtears.
+Found ItemStack witchery:hollowtears. 64xtile.witchery:hollowtears@0
+hide called. Params: witchery, disease
+Regex match found! witchery:disease matches witchery:disease.
+Found ItemStack witchery:disease. 64xtile.witchery:disease@0
+hide called. Params: *mobs, *egg
+Regex match found! *mobs:*egg matches arcticmobs:arcticegg.
+Regex match found! *mobs:*egg matches demonmobs:demonegg.
+Regex match found! *mobs:*egg matches desertmobs:desertegg.
+Regex match found! *mobs:*egg matches forestmobs:forestegg.
+Regex match found! *mobs:*egg matches freshwatermobs:freshwateregg.
+Regex match found! *mobs:*egg matches infernomobs:infernoegg.
+Regex match found! *mobs:*egg matches junglemobs:jungleegg.
+Regex match found! *mobs:*egg matches mountainmobs:mountainegg.
+Regex match found! *mobs:*egg matches plainsmobs:plainsegg.
+Regex match found! *mobs:*egg matches saltwatermobs:saltwateregg.
+Regex match found! *mobs:*egg matches shadowmobs:shadowegg.
+Regex match found! *mobs:*egg matches swampmobs:swampegg.
+Found ItemStack arcticmobs:arcticegg. 64xitem.arcticspawn@0
+Found ItemStack demonmobs:demonegg. 64xitem.demonspawn@0
+Found ItemStack desertmobs:desertegg. 64xitem.desertspawn@0
+Found ItemStack forestmobs:forestegg. 64xitem.forestspawn@0
+Found ItemStack freshwatermobs:freshwateregg. 64xitem.freshwaterspawn@0
+Found ItemStack infernomobs:infernoegg. 64xitem.infernospawn@0
+Found ItemStack junglemobs:jungleegg. 64xitem.junglespawn@0
+Found ItemStack mountainmobs:mountainegg. 64xitem.mountainspawn@0
+Found ItemStack plainsmobs:plainsegg. 64xitem.plainsspawn@0
+Found ItemStack saltwatermobs:saltwateregg. 64xitem.saltwaterspawn@0
+Found ItemStack shadowmobs:shadowegg. 64xitem.shadowspawn@0
+Found ItemStack swampmobs:swampegg. 64xitem.swampspawn@0
+hide called. Params: lycanitesmobs, mobtoken
+Regex match found! lycanitesmobs:mobtoken matches lycanitesmobs:mobtoken.
+Found ItemStack lycanitesmobs:mobtoken. 64xitem.mobtoken@0
+hide called. Params: swampmobs, poisoncloud
+Regex match found! swampmobs:poisoncloud matches swampmobs:poisoncloud.
+Found ItemStack swampmobs:poisoncloud. 64xtile.poisoncloud@0
+hide called. Params: shadowmobs, shadowfire
+Regex match found! shadowmobs:shadowfire matches shadowmobs:shadowfire.
+Found ItemStack shadowmobs:shadowfire. 64xtile.shadowfire@0
+hide called. Params: junglemobs, poopcloud
+Regex match found! junglemobs:poopcloud matches junglemobs:poopcloud.
+Found ItemStack junglemobs:poopcloud. 64xtile.poopcloud@0
+hide called. Params: infernomobs, scorchfire
+Regex match found! infernomobs:scorchfire matches infernomobs:scorchfire.
+Found ItemStack infernomobs:scorchfire. 64xtile.scorchfire@0
+hide called. Params: infernomobs, purelava
+Regex match found! infernomobs:purelava matches infernomobs:purelava.
+Found ItemStack infernomobs:purelava. 64xtile.purelava@0
+hide called. Params: arcticmobs, ooze
+Regex match found! arcticmobs:ooze matches arcticmobs:ooze.
+Found ItemStack arcticmobs:ooze. 64xtile.ooze@0
+hide called. Params: arcticmobs, frostcloud
+Regex match found! arcticmobs:frostcloud matches arcticmobs:frostcloud.
+Found ItemStack arcticmobs:frostcloud. 64xtile.frostcloud@0
+hide called. Params: arcticmobs, frostfire
+Regex match found! arcticmobs:frostfire matches arcticmobs:frostfire.
+Found ItemStack arcticmobs:frostfire. 64xtile.frostfire@0
+hide called. Params: arcticmobs, icefire
+Regex match found! arcticmobs:icefire matches arcticmobs:icefire.
+Found ItemStack arcticmobs:icefire. 64xtile.icefire@0
+hide called. Params: arcticmobs, frostweb
+Regex match found! arcticmobs:frostweb matches arcticmobs:frostweb.
+Found ItemStack arcticmobs:frostweb. 64xtile.frostweb@0
+hide called. Params: demonmobs, hellfire
+Regex match found! demonmobs:hellfire matches demonmobs:hellfire.
+Found ItemStack demonmobs:hellfire. 64xtile.hellfire@0
+hide called. Params: recallstones, recallStone
+Regex match found! recallstones:recallStone matches recallstones:recallStone.
+Found ItemStack recallstones:recallStone. 64xitem.recallStone@0
+hide called. Params: recallstones, dimensionStone
+Regex match found! recallstones:dimensionStone matches recallstones:dimensionStone.
+Found ItemStack recallstones:dimensionStone. 64xitem.dimensionStone@0
+hide called. Params: primitivemobs, primitivemobs_Spawner
+Regex match found! primitivemobs:primitivemobs_Spawner matches primitivemobs:primitivemobs_Spawner.
+Found ItemStack primitivemobs:primitivemobs_Spawner. 1xitem.Spawner@0
+hide called. Params: props, blockProps
+Regex match found! props:blockProps matches props:blockProps.
+Found ItemStack props:blockProps. 64xtile.null@0
+hide called. Params: props, blockFake
+Regex match found! props:blockFake matches props:blockFake.
+Found ItemStack props:blockFake. 64xtile.null@0
+hide called. Params: harvestcraft, chocolaterollItem
+Regex match found! harvestcraft:chocolaterollItem matches harvestcraft:chocolaterollItem.
+Found ItemStack harvestcraft:chocolaterollItem. 64xitem.chocolaterollItem@0
+hide called. Params: HardcoreEnderExpansion, spawn_eggs
+Regex match found! HardcoreEnderExpansion:spawn_eggs matches HardcoreEnderExpansion:spawn_eggs.
+Found ItemStack HardcoreEnderExpansion:spawn_eggs. 64xitem.monsterPlacer@0
+hide called. Params: HardcoreEnderExpansion, ender_goo
+Regex match found! HardcoreEnderExpansion:ender_goo matches HardcoreEnderExpansion:ender_goo.
+Found ItemStack HardcoreEnderExpansion:ender_goo. 64xtile.enderGoo@0
+hide called. Params: HardcoreEnderExpansion, temple_end_portal
+Regex match found! HardcoreEnderExpansion:temple_end_portal matches HardcoreEnderExpansion:temple_end_portal.
+Found ItemStack HardcoreEnderExpansion:temple_end_portal. 64xtile.templeEndPortal@0
+hide called. Params: HardcoreEnderExpansion, corrupted_energy_low
+Regex match found! HardcoreEnderExpansion:corrupted_energy_low matches HardcoreEnderExpansion:corrupted_energy_low.
+Found ItemStack HardcoreEnderExpansion:corrupted_energy_low. 64xtile.null@0
+hide called. Params: HardcoreEnderExpansion, corrupted_energy_high
+Regex match found! HardcoreEnderExpansion:corrupted_energy_high matches HardcoreEnderExpansion:corrupted_energy_high.
+Found ItemStack HardcoreEnderExpansion:corrupted_energy_high. 64xtile.null@0
+hide called. Params: HardcoreEnderExpansion, laser_beam
+Regex match found! HardcoreEnderExpansion:laser_beam matches HardcoreEnderExpansion:laser_beam.
+Found ItemStack HardcoreEnderExpansion:laser_beam. 64xtile.laserBeam@0
+hide called. Params: HardcoreEnderExpansion, enderman_head_block
+Regex match found! HardcoreEnderExpansion:enderman_head_block matches HardcoreEnderExpansion:enderman_head_block.
+Found ItemStack HardcoreEnderExpansion:enderman_head_block. 64xtile.endermanHead@0
+hide called. Params: EnderZoo, itemSpawnEggEnderZoo
+Regex match found! EnderZoo:itemSpawnEggEnderZoo matches EnderZoo:itemSpawnEggEnderZoo.
+Found ItemStack EnderZoo:itemSpawnEggEnderZoo. 64xitem.itemSpawnEggEnderZoo@0
+hide called. Params: Botania, gaiaHead
+Regex match found! Botania:gaiaHead matches Botania:gaiaHead.
+Found ItemStack Botania:gaiaHead. 64xitem.gaiaHead@0
+hide called. Params: ExtraTiC, molten*
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenAdamantine..
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenBedrockium.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenBrass.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenConductiveIron.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenDarkSteel.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenElectricalSteel.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenElementium.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenEnergeticAlloy.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenFairy.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenLudicrite.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenManasteel.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenPhasedGold.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenPhasedIron.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenPokefennium.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenRedAurum.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenRedstoneAlloy.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenSoularium.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenTerrasteel.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenVoidmetal.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenZinc.
+Regex match found! ExtraTiC:molten* matches ExtraTiC:moltenblutonium.
+Found ItemStack ExtraTiC:moltenAdamantine.. 64xtile.molten.adamantine@0
+Found ItemStack ExtraTiC:moltenBedrockium. 64xtile.molten.bedrockium@0
+Found ItemStack ExtraTiC:moltenBrass. 64xtile.molten.brass@0
+Found ItemStack ExtraTiC:moltenConductiveIron. 64xtile.molten.conductive.iron@0
+Found ItemStack ExtraTiC:moltenDarkSteel. 64xtile.molten.dark.steel@0
+Found ItemStack ExtraTiC:moltenElectricalSteel. 64xtile.molten.electrical.steel@0
+Found ItemStack ExtraTiC:moltenElementium. 64xtile.molten.elementium@0
+Found ItemStack ExtraTiC:moltenEnergeticAlloy. 64xtile.molten.energetic.alloy@0
+Found ItemStack ExtraTiC:moltenFairy. 64xtile.molten.fairy@0
+Found ItemStack ExtraTiC:moltenLudicrite. 64xtile.molten.ludicrite@0
+Found ItemStack ExtraTiC:moltenManasteel. 64xtile.molten.manasteel@0
+Found ItemStack ExtraTiC:moltenPhasedGold. 64xtile.molten.phased.gold@0
+Found ItemStack ExtraTiC:moltenPhasedIron. 64xtile.molten.phased.iron@0
+Found ItemStack ExtraTiC:moltenPokefennium. 64xtile.molten.pokefennium@0
+Found ItemStack ExtraTiC:moltenRedAurum. 64xtile.molten.red.aurum@0
+Found ItemStack ExtraTiC:moltenRedstoneAlloy. 64xtile.molten.redstone.alloy@0
+Found ItemStack ExtraTiC:moltenSoularium. 64xtile.molten.soularium@0
+Found ItemStack ExtraTiC:moltenTerrasteel. 64xtile.molten.terrasteel@0
+Found ItemStack ExtraTiC:moltenVoidmetal. 64xtile.molten.voidmetal@0
+Found ItemStack ExtraTiC:moltenZinc. 64xtile.molten.zinc@0
+Found ItemStack ExtraTiC:moltenblutonium. 64xtile.molten.blutonium@0
+override called. Params: IC2, itemFluidCell, 0
+Regex match found! IC2:itemFluidCell matches IC2:itemFluidCell.
+Found ItemStack IC2:itemFluidCell. 64xic2.itemFluidCell@0
+hide called. Params: ubcores, *
+Regex match found! ubcores:* matches ubcores:igneous_ImmersiveEngineering.ore.
+Regex match found! ubcores:* matches ubcores:igneous_ImmersiveEngineering.ore.1.
+Regex match found! ubcores:* matches ubcores:igneous_ImmersiveEngineering.ore.2.
+Regex match found! ubcores:* matches ubcores:igneous_ImmersiveEngineering.ore.3.
+Regex match found! ubcores:* matches ubcores:igneous_ImmersiveEngineering.ore.4.
+Regex match found! ubcores:* matches ubcores:igneous_OreCopper.
+Regex match found! ubcores:* matches ubcores:igneous_OreLead.
+Regex match found! ubcores:* matches ubcores:igneous_OreShadow.
+Regex match found! ubcores:* matches ubcores:igneous_OreTin.
+Regex match found! ubcores:* matches ubcores:igneous_OreUran.
+Regex match found! ubcores:* matches ubcores:igneous_appliedenergistics2.OreQuartz.
+Regex match found! ubcores:* matches ubcores:igneous_appliedenergistics2.OreQuartzCharged.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.1.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.2.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.3.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.4.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.5.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.6.
+Regex match found! ubcores:* matches ubcores:igneous_blockCustomOre.7.
+Regex match found! ubcores:* matches ubcores:igneous_brOre.
+Regex match found! ubcores:* matches ubcores:igneous_dimensionalShardBlock.
+Regex match found! ubcores:* matches ubcores:igneous_for.resources.
+Regex match found! ubcores:* matches ubcores:igneous_for.resources.1.
+Regex match found! ubcores:* matches ubcores:igneous_for.resources.2.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.10.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.12.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.14.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.2.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.4.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.6.
+Regex match found! ubcores:* matches ubcores:igneous_gemOre.8.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.1.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.2.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.3.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.4.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.5.
+Regex match found! ubcores:* matches ubcores:igneous_projectred.exploration.ore.6.
+Regex match found! ubcores:* matches ubcores:igneous_railcraft.ore.
+Regex match found! ubcores:* matches ubcores:igneous_salt.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.1.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.2.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.3.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.4.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.5.
+Regex match found! ubcores:* matches ubcores:igneous_thermalfoundation.ore.6.
+Regex match found! ubcores:* matches ubcores:metamorphic_ImmersiveEngineering.ore.
+Regex match found! ubcores:* matches ubcores:metamorphic_ImmersiveEngineering.ore.1.
+Regex match found! ubcores:* matches ubcores:metamorphic_ImmersiveEngineering.ore.2.
+Regex match found! ubcores:* matches ubcores:metamorphic_ImmersiveEngineering.ore.3.
+Regex match found! ubcores:* matches ubcores:metamorphic_ImmersiveEngineering.ore.4.
+Regex match found! ubcores:* matches ubcores:metamorphic_OreCopper.
+Regex match found! ubcores:* matches ubcores:metamorphic_OreLead.
+Regex match found! ubcores:* matches ubcores:metamorphic_OreShadow.
+Regex match found! ubcores:* matches ubcores:metamorphic_OreTin.
+Regex match found! ubcores:* matches ubcores:metamorphic_OreUran.
+Regex match found! ubcores:* matches ubcores:metamorphic_appliedenergistics2.OreQuartz.
+Regex match found! ubcores:* matches ubcores:metamorphic_appliedenergistics2.OreQuartzCharged.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.1.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.2.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.3.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.4.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.5.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.6.
+Regex match found! ubcores:* matches ubcores:metamorphic_blockCustomOre.7.
+Regex match found! ubcores:* matches ubcores:metamorphic_brOre.
+Regex match found! ubcores:* matches ubcores:metamorphic_dimensionalShardBlock.
+Regex match found! ubcores:* matches ubcores:metamorphic_for.resources.
+Regex match found! ubcores:* matches ubcores:metamorphic_for.resources.1.
+Regex match found! ubcores:* matches ubcores:metamorphic_for.resources.2.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.10.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.12.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.14.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.2.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.4.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.6.
+Regex match found! ubcores:* matches ubcores:metamorphic_gemOre.8.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.1.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.2.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.3.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.4.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.5.
+Regex match found! ubcores:* matches ubcores:metamorphic_projectred.exploration.ore.6.
+Regex match found! ubcores:* matches ubcores:metamorphic_railcraft.ore.
+Regex match found! ubcores:* matches ubcores:metamorphic_salt.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.1.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.2.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.3.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.4.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.5.
+Regex match found! ubcores:* matches ubcores:metamorphic_thermalfoundation.ore.6.
+Regex match found! ubcores:* matches ubcores:sedimentary_ImmersiveEngineering.ore.
+Regex match found! ubcores:* matches ubcores:sedimentary_ImmersiveEngineering.ore.1.
+Regex match found! ubcores:* matches ubcores:sedimentary_ImmersiveEngineering.ore.2.
+Regex match found! ubcores:* matches ubcores:sedimentary_ImmersiveEngineering.ore.3.
+Regex match found! ubcores:* matches ubcores:sedimentary_ImmersiveEngineering.ore.4.
+Regex match found! ubcores:* matches ubcores:sedimentary_OreCopper.
+Regex match found! ubcores:* matches ubcores:sedimentary_OreLead.
+Regex match found! ubcores:* matches ubcores:sedimentary_OreShadow.
+Regex match found! ubcores:* matches ubcores:sedimentary_OreTin.
+Regex match found! ubcores:* matches ubcores:sedimentary_OreUran.
+Regex match found! ubcores:* matches ubcores:sedimentary_appliedenergistics2.OreQuartz.
+Regex match found! ubcores:* matches ubcores:sedimentary_appliedenergistics2.OreQuartzCharged.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.1.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.2.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.3.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.4.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.5.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.6.
+Regex match found! ubcores:* matches ubcores:sedimentary_blockCustomOre.7.
+Regex match found! ubcores:* matches ubcores:sedimentary_brOre.
+Regex match found! ubcores:* matches ubcores:sedimentary_dimensionalShardBlock.
+Regex match found! ubcores:* matches ubcores:sedimentary_for.resources.
+Regex match found! ubcores:* matches ubcores:sedimentary_for.resources.1.
+Regex match found! ubcores:* matches ubcores:sedimentary_for.resources.2.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.10.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.12.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.14.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.2.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.4.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.6.
+Regex match found! ubcores:* matches ubcores:sedimentary_gemOre.8.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.1.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.2.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.3.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.4.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.5.
+Regex match found! ubcores:* matches ubcores:sedimentary_projectred.exploration.ore.6.
+Regex match found! ubcores:* matches ubcores:sedimentary_railcraft.ore.
+Regex match found! ubcores:* matches ubcores:sedimentary_salt.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.1.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.2.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.3.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.4.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.5.
+Regex match found! ubcores:* matches ubcores:sedimentary_thermalfoundation.ore.6.
+Found ItemStack ubcores:igneous_ImmersiveEngineering.ore. 64xtile.null@0
+Found ItemStack ubcores:igneous_ImmersiveEngineering.ore.1. 64xtile.null@0
+Found ItemStack ubcores:igneous_ImmersiveEngineering.ore.2. 64xtile.null@0
+Found ItemStack ubcores:igneous_ImmersiveEngineering.ore.3. 64xtile.null@0
+Found ItemStack ubcores:igneous_ImmersiveEngineering.ore.4. 64xtile.null@0
+Found ItemStack ubcores:igneous_OreCopper. 64xtile.null@0
+Found ItemStack ubcores:igneous_OreLead. 64xtile.null@0
+Found ItemStack ubcores:igneous_OreShadow. 64xtile.null@0
+Found ItemStack ubcores:igneous_OreTin. 64xtile.null@0
+Found ItemStack ubcores:igneous_OreUran. 64xtile.null@0
+Found ItemStack ubcores:igneous_appliedenergistics2.OreQuartz. 64xtile.null@0
+Found ItemStack ubcores:igneous_appliedenergistics2.OreQuartzCharged. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.1. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.2. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.3. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.4. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.5. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.6. 64xtile.null@0
+Found ItemStack ubcores:igneous_blockCustomOre.7. 64xtile.null@0
+Found ItemStack ubcores:igneous_brOre. 64xtile.null@0
+Found ItemStack ubcores:igneous_dimensionalShardBlock. 64xtile.null@0
+Found ItemStack ubcores:igneous_for.resources. 64xtile.null@0
+Found ItemStack ubcores:igneous_for.resources.1. 64xtile.null@0
+Found ItemStack ubcores:igneous_for.resources.2. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.10. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.12. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.14. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.2. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.4. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.6. 64xtile.null@0
+Found ItemStack ubcores:igneous_gemOre.8. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore.1. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore.2. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore.3. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore.4. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore.5. 64xtile.null@0
+Found ItemStack ubcores:igneous_projectred.exploration.ore.6. 64xtile.null@0
+Found ItemStack ubcores:igneous_railcraft.ore. 64xtile.null@0
+Found ItemStack ubcores:igneous_salt. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore.1. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore.2. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore.3. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore.4. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore.5. 64xtile.null@0
+Found ItemStack ubcores:igneous_thermalfoundation.ore.6. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_ImmersiveEngineering.ore. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_ImmersiveEngineering.ore.1. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_ImmersiveEngineering.ore.2. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_ImmersiveEngineering.ore.3. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_ImmersiveEngineering.ore.4. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_OreCopper. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_OreLead. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_OreShadow. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_OreTin. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_OreUran. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_appliedenergistics2.OreQuartz. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_appliedenergistics2.OreQuartzCharged. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.1. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.2. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.3. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.4. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.5. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.6. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_blockCustomOre.7. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_brOre. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_dimensionalShardBlock. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_for.resources. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_for.resources.1. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_for.resources.2. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.10. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.12. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.14. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.2. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.4. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.6. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_gemOre.8. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.1. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.2. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.3. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.4. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.5. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_projectred.exploration.ore.6. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_railcraft.ore. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_salt. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.1. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.2. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.3. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.4. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.5. 64xtile.null@0
+Found ItemStack ubcores:metamorphic_thermalfoundation.ore.6. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_ImmersiveEngineering.ore. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_ImmersiveEngineering.ore.1. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_ImmersiveEngineering.ore.2. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_ImmersiveEngineering.ore.3. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_ImmersiveEngineering.ore.4. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_OreCopper. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_OreLead. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_OreShadow. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_OreTin. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_OreUran. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_appliedenergistics2.OreQuartz. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_appliedenergistics2.OreQuartzCharged. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.1. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.2. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.3. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.4. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.5. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.6. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_blockCustomOre.7. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_brOre. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_dimensionalShardBlock. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_for.resources. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_for.resources.1. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_for.resources.2. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.10. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.12. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.14. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.2. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.4. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.6. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_gemOre.8. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.1. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.2. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.3. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.4. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.5. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_projectred.exploration.ore.6. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_railcraft.ore. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_salt. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.1. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.2. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.3. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.4. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.5. 64xtile.null@0
+Found ItemStack ubcores:sedimentary_thermalfoundation.ore.6. 64xtile.null@0
+hide called. Params: chisel, *
+Regex match found! chisel:* matches chisel:acacia_planks.
+Regex match found! chisel:* matches chisel:aluminum_stairs.0.
+Regex match found! chisel:* matches chisel:aluminum_stairs.1.
+Regex match found! chisel:* matches chisel:aluminum_stairs.2.
+Regex match found! chisel:* matches chisel:aluminum_stairs.3.
+Regex match found! chisel:* matches chisel:aluminum_stairs.4.
+Regex match found! chisel:* matches chisel:aluminum_stairs.5.
+Regex match found! chisel:* matches chisel:aluminum_stairs.6.
+Regex match found! chisel:* matches chisel:aluminum_stairs.7.
+Regex match found! chisel:* matches chisel:aluminumblock.
+Regex match found! chisel:* matches chisel:amber.
+Regex match found! chisel:* matches chisel:andesite.
+Regex match found! chisel:* matches chisel:antiBlock.
+Regex match found! chisel:* matches chisel:arcane.
+Regex match found! chisel:* matches chisel:autoChisel.
+Regex match found! chisel:* matches chisel:ballomoss.
+Regex match found! chisel:* matches chisel:beacon.
+Regex match found! chisel:* matches chisel:birch_planks.
+Regex match found! chisel:* matches chisel:bloodBrick.
+Regex match found! chisel:* matches chisel:bloodRune.
+Regex match found! chisel:* matches chisel:bookshelf.
+Regex match found! chisel:* matches chisel:brickCustom.
+Regex match found! chisel:* matches chisel:bronzeblock.
+Regex match found! chisel:* matches chisel:carpet.
+Regex match found! chisel:* matches chisel:carpet_block.
+Regex match found! chisel:* matches chisel:chisel.
+Regex match found! chisel:* matches chisel:cloud.
+Regex match found! chisel:* matches chisel:cloudinabottle.
+Regex match found! chisel:* matches chisel:cobblestone.
+Regex match found! chisel:* matches chisel:concrete.
+Regex match found! chisel:* matches chisel:copperblock.
+Regex match found! chisel:* matches chisel:dark_oak_planks.
+Regex match found! chisel:* matches chisel:diamondChisel.
+Regex match found! chisel:* matches chisel:diamond_block.
+Regex match found! chisel:* matches chisel:diorite.
+Regex match found! chisel:* matches chisel:dirt.
+Regex match found! chisel:* matches chisel:emerald_block.
+Regex match found! chisel:* matches chisel:end_Stone.
+Regex match found! chisel:* matches chisel:factoryblock.
+Regex match found! chisel:* matches chisel:factoryblock2.
+Regex match found! chisel:* matches chisel:fantasyblock.
+Regex match found! chisel:* matches chisel:fantasyblock2.
+Regex match found! chisel:* matches chisel:futura.
+Regex match found! chisel:* matches chisel:futuraCircuit.
+Regex match found! chisel:* matches chisel:glass.
+Regex match found! chisel:* matches chisel:glass2.
+Regex match found! chisel:* matches chisel:glass_pane.
+Regex match found! chisel:* matches chisel:glowstone.
+Regex match found! chisel:* matches chisel:gold2.
+Regex match found! chisel:* matches chisel:gold_block.
+Regex match found! chisel:* matches chisel:granite.
+Regex match found! chisel:* matches chisel:grimstone.
+Regex match found! chisel:* matches chisel:hexLargePlating.
+Regex match found! chisel:* matches chisel:hexPlating.
+Regex match found! chisel:* matches chisel:holystone.
+Regex match found! chisel:* matches chisel:ice.
+Regex match found! chisel:* matches chisel:ice_pillar.
+Regex match found! chisel:* matches chisel:ice_stairs.0.
+Regex match found! chisel:* matches chisel:ice_stairs.1.
+Regex match found! chisel:* matches chisel:ice_stairs.2.
+Regex match found! chisel:* matches chisel:ice_stairs.3.
+Regex match found! chisel:* matches chisel:ice_stairs.4.
+Regex match found! chisel:* matches chisel:ice_stairs.5.
+Regex match found! chisel:* matches chisel:ice_stairs.6.
+Regex match found! chisel:* matches chisel:ice_stairs.7.
+Regex match found! chisel:* matches chisel:iron2.
+Regex match found! chisel:* matches chisel:iron_bars.
+Regex match found! chisel:* matches chisel:iron_block.
+Regex match found! chisel:* matches chisel:jackolantern1.
+Regex match found! chisel:* matches chisel:jackolantern10.
+Regex match found! chisel:* matches chisel:jackolantern11.
+Regex match found! chisel:* matches chisel:jackolantern12.
+Regex match found! chisel:* matches chisel:jackolantern13.
+Regex match found! chisel:* matches chisel:jackolantern14.
+Regex match found! chisel:* matches chisel:jackolantern15.
+Regex match found! chisel:* matches chisel:jackolantern16.
+Regex match found! chisel:* matches chisel:jackolantern2.
+Regex match found! chisel:* matches chisel:jackolantern3.
+Regex match found! chisel:* matches chisel:jackolantern4.
+Regex match found! chisel:* matches chisel:jackolantern5.
+Regex match found! chisel:* matches chisel:jackolantern6.
+Regex match found! chisel:* matches chisel:jackolantern7.
+Regex match found! chisel:* matches chisel:jackolantern8.
+Regex match found! chisel:* matches chisel:jackolantern9.
+Regex match found! chisel:* matches chisel:jungle_planks.
+Regex match found! chisel:* matches chisel:laboratoryblock.
+Regex match found! chisel:* matches chisel:lapis_block.
+Regex match found! chisel:* matches chisel:lavastone.
+Regex match found! chisel:* matches chisel:leadblock.
+Regex match found! chisel:* matches chisel:leaves.
+Regex match found! chisel:* matches chisel:limestone.
+Regex match found! chisel:* matches chisel:limestone_slab.
+Regex match found! chisel:* matches chisel:limestone_slab_top.
+Regex match found! chisel:* matches chisel:limestone_stairs.0.
+Regex match found! chisel:* matches chisel:limestone_stairs.1.
+Regex match found! chisel:* matches chisel:limestone_stairs.2.
+Regex match found! chisel:* matches chisel:limestone_stairs.3.
+Regex match found! chisel:* matches chisel:limestone_stairs.4.
+Regex match found! chisel:* matches chisel:limestone_stairs.5.
+Regex match found! chisel:* matches chisel:limestone_stairs.6.
+Regex match found! chisel:* matches chisel:limestone_stairs.7.
+Regex match found! chisel:* matches chisel:marble.
+Regex match found! chisel:* matches chisel:marble_pillar.
+Regex match found! chisel:* matches chisel:marble_pillar_slab.
+Regex match found! chisel:* matches chisel:marble_pillar_slab_top.
+Regex match found! chisel:* matches chisel:marble_slab.
+Regex match found! chisel:* matches chisel:marble_slab_top.
+Regex match found! chisel:* matches chisel:marble_stairs.0.
+Regex match found! chisel:* matches chisel:marble_stairs.1.
+Regex match found! chisel:* matches chisel:marble_stairs.2.
+Regex match found! chisel:* matches chisel:marble_stairs.3.
+Regex match found! chisel:* matches chisel:marble_stairs.4.
+Regex match found! chisel:* matches chisel:marble_stairs.5.
+Regex match found! chisel:* matches chisel:marble_stairs.6.
+Regex match found! chisel:* matches chisel:marble_stairs.7.
+Regex match found! chisel:* matches chisel:mossy_cobblestone.
+Regex match found! chisel:* matches chisel:mossy_templeblock.
+Regex match found! chisel:* matches chisel:nation.
+Regex match found! chisel:* matches chisel:nether_brick.
+Regex match found! chisel:* matches chisel:netherrack.
+Regex match found! chisel:* matches chisel:oak_planks.
+Regex match found! chisel:* matches chisel:obsidian.
+Regex match found! chisel:* matches chisel:obsidianChisel.
+Regex match found! chisel:* matches chisel:obsidian_snakestone.
+Regex match found! chisel:* matches chisel:packedice.
+Regex match found! chisel:* matches chisel:packedice_pillar.
+Regex match found! chisel:* matches chisel:packedice_stairs.0.
+Regex match found! chisel:* matches chisel:packedice_stairs.1.
+Regex match found! chisel:* matches chisel:packedice_stairs.2.
+Regex match found! chisel:* matches chisel:packedice_stairs.3.
+Regex match found! chisel:* matches chisel:packedice_stairs.4.
+Regex match found! chisel:* matches chisel:packedice_stairs.5.
+Regex match found! chisel:* matches chisel:packedice_stairs.6.
+Regex match found! chisel:* matches chisel:packedice_stairs.7.
+Regex match found! chisel:* matches chisel:paperwall.
+Regex match found! chisel:* matches chisel:paperwall_block.
+Regex match found! chisel:* matches chisel:present.
+Regex match found! chisel:* matches chisel:pumpkin1.
+Regex match found! chisel:* matches chisel:pumpkin10.
+Regex match found! chisel:* matches chisel:pumpkin11.
+Regex match found! chisel:* matches chisel:pumpkin12.
+Regex match found! chisel:* matches chisel:pumpkin13.
+Regex match found! chisel:* matches chisel:pumpkin14.
+Regex match found! chisel:* matches chisel:pumpkin15.
+Regex match found! chisel:* matches chisel:pumpkin16.
+Regex match found! chisel:* matches chisel:pumpkin2.
+Regex match found! chisel:* matches chisel:pumpkin3.
+Regex match found! chisel:* matches chisel:pumpkin4.
+Regex match found! chisel:* matches chisel:pumpkin5.
+Regex match found! chisel:* matches chisel:pumpkin6.
+Regex match found! chisel:* matches chisel:pumpkin7.
+Regex match found! chisel:* matches chisel:pumpkin8.
+Regex match found! chisel:* matches chisel:pumpkin9.
+Regex match found! chisel:* matches chisel:purpur.
+Regex match found! chisel:* matches chisel:rebel.
+Regex match found! chisel:* matches chisel:redstone_block.
+Regex match found! chisel:* matches chisel:road_line.
+Regex match found! chisel:* matches chisel:sand_snakestone.
+Regex match found! chisel:* matches chisel:sandstone.
+Regex match found! chisel:* matches chisel:sandstone2.
+Regex match found! chisel:* matches chisel:sandstone_scribbles.
+Regex match found! chisel:* matches chisel:silverblock.
+Regex match found! chisel:* matches chisel:smashingrock.
+Regex match found! chisel:* matches chisel:spruce_planks.
+Regex match found! chisel:* matches chisel:stained_glass_brown.
+Regex match found! chisel:* matches chisel:stained_glass_forestry.
+Regex match found! chisel:* matches chisel:stained_glass_lightgray.
+Regex match found! chisel:* matches chisel:stained_glass_pane_brown.
+Regex match found! chisel:* matches chisel:stained_glass_pane_lightgray.
+Regex match found! chisel:* matches chisel:stained_glass_pane_magenta.
+Regex match found! chisel:* matches chisel:stained_glass_pane_pink.
+Regex match found! chisel:* matches chisel:stained_glass_pane_purple.
+Regex match found! chisel:* matches chisel:stained_glass_pane_red.
+Regex match found! chisel:* matches chisel:stained_glass_pane_white.
+Regex match found! chisel:* matches chisel:stained_glass_pane_yellow.
+Regex match found! chisel:* matches chisel:stained_glass_white.
+Regex match found! chisel:* matches chisel:stained_glass_yellow.
+Regex match found! chisel:* matches chisel:steelblock.
+Regex match found! chisel:* matches chisel:stone_snakestone.
+Regex match found! chisel:* matches chisel:stonebricksmooth.
+Regex match found! chisel:* matches chisel:tallow.
+Regex match found! chisel:* matches chisel:technical.
+Regex match found! chisel:* matches chisel:technical2.
+Regex match found! chisel:* matches chisel:technical3.
+Regex match found! chisel:* matches chisel:technical4.
+Regex match found! chisel:* matches chisel:templeblock.
+Regex match found! chisel:* matches chisel:thaumium.
+Regex match found! chisel:* matches chisel:tinblock.
+Regex match found! chisel:* matches chisel:torch1.
+Regex match found! chisel:* matches chisel:torch10.
+Regex match found! chisel:* matches chisel:torch2.
+Regex match found! chisel:* matches chisel:torch3.
+Regex match found! chisel:* matches chisel:torch4.
+Regex match found! chisel:* matches chisel:torch5.
+Regex match found! chisel:* matches chisel:torch6.
+Regex match found! chisel:* matches chisel:torch7.
+Regex match found! chisel:* matches chisel:torch8.
+Regex match found! chisel:* matches chisel:torch9.
+Regex match found! chisel:* matches chisel:tyrian.
+Regex match found! chisel:* matches chisel:upgrade.
+Regex match found! chisel:* matches chisel:uraniumblock.
+Regex match found! chisel:* matches chisel:valentines.
+Regex match found! chisel:* matches chisel:voidstone.
+Regex match found! chisel:* matches chisel:voidstone2.
+Regex match found! chisel:* matches chisel:voidstonePillar.
+Regex match found! chisel:* matches chisel:voidstonePillar2.
+Regex match found! chisel:* matches chisel:voidstoneRunic.
+Regex match found! chisel:* matches chisel:warningSign.
+Regex match found! chisel:* matches chisel:waterstone.
+Regex match found! chisel:* matches chisel:woolen_clay.
+Found ItemStack chisel:acacia_planks. 64xtile.chisel.acacia_planks@0
+Found ItemStack chisel:aluminum_stairs.0. 64xtile.chisel.aluminum_stairs.0@0
+Found ItemStack chisel:aluminum_stairs.1. 64xtile.chisel.aluminum_stairs.1@0
+Found ItemStack chisel:aluminum_stairs.2. 64xtile.chisel.aluminum_stairs.2@0
+Found ItemStack chisel:aluminum_stairs.3. 64xtile.chisel.aluminum_stairs.3@0
+Found ItemStack chisel:aluminum_stairs.4. 64xtile.chisel.aluminum_stairs.4@0
+Found ItemStack chisel:aluminum_stairs.5. 64xtile.chisel.aluminum_stairs.5@0
+Found ItemStack chisel:aluminum_stairs.6. 64xtile.chisel.aluminum_stairs.6@0
+Found ItemStack chisel:aluminum_stairs.7. 64xtile.chisel.aluminum_stairs.7@0
+Found ItemStack chisel:aluminumblock. 64xtile.chisel.aluminumblock@0
+Found ItemStack chisel:amber. 64xtile.chisel.amber@0
+Found ItemStack chisel:andesite. 64xtile.chisel.andesite@0
+Found ItemStack chisel:antiBlock. 64xtile.chisel.antiBlock@0
+Found ItemStack chisel:arcane. 64xtile.chisel.arcane@0
+Found ItemStack chisel:autoChisel. 64xtile.chisel.autoChisel@0
+Found ItemStack chisel:ballomoss. 64xitem.ballMoss@0
+Found ItemStack chisel:beacon. 64xtile.chisel.beacon@0
+Found ItemStack chisel:birch_planks. 64xtile.chisel.birch_planks@0
+Found ItemStack chisel:bloodBrick. 64xtile.chisel.bloodBrick@0
+Found ItemStack chisel:bloodRune. 64xtile.chisel.bloodRune@0
+Found ItemStack chisel:bookshelf. 64xtile.chisel.bookshelf@0
+Found ItemStack chisel:brickCustom. 64xtile.chisel.brickCustom@0
+Found ItemStack chisel:bronzeblock. 64xtile.chisel.bronzeblock@0
+Found ItemStack chisel:carpet. 64xtile.chisel.carpet@0
+Found ItemStack chisel:carpet_block. 64xtile.chisel.carpet_block@0
+Found ItemStack chisel:chisel. 1xitem.null@0
+Found ItemStack chisel:cloud. 64xtile.chisel.cloud@0
+Found ItemStack chisel:cloudinabottle. 64xitem.cloudBottle@0
+Found ItemStack chisel:cobblestone. 64xtile.chisel.cobblestone@0
+Found ItemStack chisel:concrete. 64xtile.chisel.concrete@0
+Found ItemStack chisel:copperblock. 64xtile.chisel.copperblock@0
+Found ItemStack chisel:dark_oak_planks. 64xtile.chisel.dark_oak_planks@0
+Found ItemStack chisel:diamondChisel. 1xitem.null@0
+Found ItemStack chisel:diamond_block. 64xtile.chisel.diamond_block@0
+Found ItemStack chisel:diorite. 64xtile.chisel.diorite@0
+Found ItemStack chisel:dirt. 64xtile.chisel.dirt@0
+Found ItemStack chisel:emerald_block. 64xtile.chisel.emerald_block@0
+Found ItemStack chisel:end_Stone. 64xtile.chisel.end_Stone@0
+Found ItemStack chisel:factoryblock. 64xtile.chisel.factoryblock@0
+Found ItemStack chisel:factoryblock2. 64xtile.chisel.factoryblock2@0
+Found ItemStack chisel:fantasyblock. 64xtile.chisel.fantasyblock@0
+Found ItemStack chisel:fantasyblock2. 64xtile.chisel.fantasyblock2@0
+Found ItemStack chisel:futura. 64xtile.chisel.futura@0
+Found ItemStack chisel:futuraCircuit. 64xtile.chisel.futuraCircuit@0
+Found ItemStack chisel:glass. 64xtile.chisel.glass@0
+Found ItemStack chisel:glass2. 64xtile.chisel.glass2@0
+Found ItemStack chisel:glass_pane. 64xtile.chisel.glass_pane@0
+Found ItemStack chisel:glowstone. 64xtile.chisel.glowstone@0
+Found ItemStack chisel:gold2. 64xtile.chisel.gold2@0
+Found ItemStack chisel:gold_block. 64xtile.chisel.gold_block@0
+Found ItemStack chisel:granite. 64xtile.chisel.granite@0
+Found ItemStack chisel:grimstone. 64xtile.chisel.grimstone@0
+Found ItemStack chisel:hexLargePlating. 64xtile.chisel.hexLargePlating@0
+Found ItemStack chisel:hexPlating. 64xtile.chisel.hexPlating@0
+Found ItemStack chisel:holystone. 64xtile.chisel.holystone@0
+Found ItemStack chisel:ice. 64xtile.chisel.ice@0
+Found ItemStack chisel:ice_pillar. 64xtile.chisel.ice_pillar@0
+Found ItemStack chisel:ice_stairs.0. 64xtile.chisel.ice_stairs.0@0
+Found ItemStack chisel:ice_stairs.1. 64xtile.chisel.ice_stairs.1@0
+Found ItemStack chisel:ice_stairs.2. 64xtile.chisel.ice_stairs.2@0
+Found ItemStack chisel:ice_stairs.3. 64xtile.chisel.ice_stairs.3@0
+Found ItemStack chisel:ice_stairs.4. 64xtile.chisel.ice_stairs.4@0
+Found ItemStack chisel:ice_stairs.5. 64xtile.chisel.ice_stairs.5@0
+Found ItemStack chisel:ice_stairs.6. 64xtile.chisel.ice_stairs.6@0
+Found ItemStack chisel:ice_stairs.7. 64xtile.chisel.ice_stairs.7@0
+Found ItemStack chisel:iron2. 64xtile.chisel.iron2@0
+Found ItemStack chisel:iron_bars. 64xtile.chisel.iron_bars@0
+Found ItemStack chisel:iron_block. 64xtile.chisel.iron_block@0
+Found ItemStack chisel:jackolantern1. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern10. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern11. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern12. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern13. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern14. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern15. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern16. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern2. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern3. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern4. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern5. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern6. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern7. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern8. 64xtile.litpumpkin@0
+Found ItemStack chisel:jackolantern9. 64xtile.litpumpkin@0
+Found ItemStack chisel:jungle_planks. 64xtile.chisel.jungle_planks@0
+Found ItemStack chisel:laboratoryblock. 64xtile.chisel.laboratoryblock@0
+Found ItemStack chisel:lapis_block. 64xtile.chisel.lapis_block@0
+Found ItemStack chisel:lavastone. 64xtile.chisel.lavastone@0
+Found ItemStack chisel:leadblock. 64xtile.chisel.leadblock@0
+Found ItemStack chisel:leaves. 64xtile.chisel.leaves@0
+Found ItemStack chisel:limestone. 64xtile.chisel.limestone@0
+Found ItemStack chisel:limestone_slab. 64xtile.chisel.limestone_slab@0
+Found ItemStack chisel:limestone_slab_top. 64xtile.chisel.limestone_slab@0
+Found ItemStack chisel:limestone_stairs.0. 64xtile.chisel.limestone_stairs.0@0
+Found ItemStack chisel:limestone_stairs.1. 64xtile.chisel.limestone_stairs.1@0
+Found ItemStack chisel:limestone_stairs.2. 64xtile.chisel.limestone_stairs.2@0
+Found ItemStack chisel:limestone_stairs.3. 64xtile.chisel.limestone_stairs.3@0
+Found ItemStack chisel:limestone_stairs.4. 64xtile.chisel.limestone_stairs.4@0
+Found ItemStack chisel:limestone_stairs.5. 64xtile.chisel.limestone_stairs.5@0
+Found ItemStack chisel:limestone_stairs.6. 64xtile.chisel.limestone_stairs.6@0
+Found ItemStack chisel:limestone_stairs.7. 64xtile.chisel.limestone_stairs.7@0
+Found ItemStack chisel:marble. 64xtile.chisel.marble@0
+Found ItemStack chisel:marble_pillar. 64xtile.chisel.marble_pillar@0
+Found ItemStack chisel:marble_pillar_slab. 64xtile.chisel.marble_pillar_slab@0
+Found ItemStack chisel:marble_pillar_slab_top. 64xtile.chisel.marble_pillar_slab@0
+Found ItemStack chisel:marble_slab. 64xtile.chisel.marble_slab@0
+Found ItemStack chisel:marble_slab_top. 64xtile.chisel.marble_slab@0
+Found ItemStack chisel:marble_stairs.0. 64xtile.chisel.marble_stairs.0@0
+Found ItemStack chisel:marble_stairs.1. 64xtile.chisel.marble_stairs.1@0
+Found ItemStack chisel:marble_stairs.2. 64xtile.chisel.marble_stairs.2@0
+Found ItemStack chisel:marble_stairs.3. 64xtile.chisel.marble_stairs.3@0
+Found ItemStack chisel:marble_stairs.4. 64xtile.chisel.marble_stairs.4@0
+Found ItemStack chisel:marble_stairs.5. 64xtile.chisel.marble_stairs.5@0
+Found ItemStack chisel:marble_stairs.6. 64xtile.chisel.marble_stairs.6@0
+Found ItemStack chisel:marble_stairs.7. 64xtile.chisel.marble_stairs.7@0
+Found ItemStack chisel:mossy_cobblestone. 64xtile.chisel.mossy_cobblestone@0
+Found ItemStack chisel:mossy_templeblock. 64xtile.chisel.mossy_templeblock@0
+Found ItemStack chisel:nation. 64xtile.chisel.nation@0
+Found ItemStack chisel:nether_brick. 64xtile.chisel.nether_brick@0
+Found ItemStack chisel:netherrack. 64xtile.chisel.netherrack@0
+Found ItemStack chisel:oak_planks. 64xtile.chisel.oak_planks@0
+Found ItemStack chisel:obsidian. 64xtile.chisel.obsidian@0
+Found ItemStack chisel:obsidianChisel. 1xitem.null@0
+Found ItemStack chisel:obsidian_snakestone. 64xtile.chisel.obsidianSnakestone@0
+Found ItemStack chisel:packedice. 64xtile.chisel.packedice@0
+Found ItemStack chisel:packedice_pillar. 64xtile.chisel.packedice_pillar@0
+Found ItemStack chisel:packedice_stairs.0. 64xtile.chisel.packedice_stairs.0@0
+Found ItemStack chisel:packedice_stairs.1. 64xtile.chisel.packedice_stairs.1@0
+Found ItemStack chisel:packedice_stairs.2. 64xtile.chisel.packedice_stairs.2@0
+Found ItemStack chisel:packedice_stairs.3. 64xtile.chisel.packedice_stairs.3@0
+Found ItemStack chisel:packedice_stairs.4. 64xtile.chisel.packedice_stairs.4@0
+Found ItemStack chisel:packedice_stairs.5. 64xtile.chisel.packedice_stairs.5@0
+Found ItemStack chisel:packedice_stairs.6. 64xtile.chisel.packedice_stairs.6@0
+Found ItemStack chisel:packedice_stairs.7. 64xtile.chisel.packedice_stairs.7@0
+Found ItemStack chisel:paperwall. 64xtile.chisel.paperwall@0
+Found ItemStack chisel:paperwall_block. 64xtile.chisel.paperwall_block@0
+Found ItemStack chisel:present. 64xtile.chisel.present@0
+Found ItemStack chisel:pumpkin1. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin10. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin11. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin12. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin13. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin14. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin15. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin16. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin2. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin3. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin4. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin5. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin6. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin7. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin8. 64xtile.pumpkin@0
+Found ItemStack chisel:pumpkin9. 64xtile.pumpkin@0
+Found ItemStack chisel:purpur. 64xtile.chisel.purpur@0
+Found ItemStack chisel:rebel. 64xtile.chisel.rebel@0
+Found ItemStack chisel:redstone_block. 64xtile.chisel.redstone_block@0
+Found ItemStack chisel:road_line. 64xtile.chisel.road_line@0
+Found ItemStack chisel:sand_snakestone. 64xtile.chisel.snakestoneSand@0
+Found ItemStack chisel:sandstone. 64xtile.chisel.sandstone@0
+Found ItemStack chisel:sandstone2. 64xtile.chisel.sandstone2@0
+Found ItemStack chisel:sandstone_scribbles. 64xtile.chisel.sandstone_scribbles@0
+Found ItemStack chisel:silverblock. 64xtile.chisel.silverblock@0
+Found ItemStack chisel:smashingrock. 64xitem.smashingRock@0
+Found ItemStack chisel:spruce_planks. 64xtile.chisel.spruce_planks@0
+Found ItemStack chisel:stained_glass_brown. 64xtile.chisel.stained_glass_brown@0
+Found ItemStack chisel:stained_glass_forestry. 64xtile.chisel.stained_glass_forestry@0
+Found ItemStack chisel:stained_glass_lightgray. 64xtile.chisel.stained_glass_lightgray@0
+Found ItemStack chisel:stained_glass_pane_brown. 64xtile.chisel.stained_glass_pane_brown@0
+Found ItemStack chisel:stained_glass_pane_lightgray. 64xtile.chisel.stained_glass_pane_lightgray@0
+Found ItemStack chisel:stained_glass_pane_magenta. 64xtile.chisel.stained_glass_pane_magenta@0
+Found ItemStack chisel:stained_glass_pane_pink. 64xtile.chisel.stained_glass_pane_pink@0
+Found ItemStack chisel:stained_glass_pane_purple. 64xtile.chisel.stained_glass_pane_purple@0
+Found ItemStack chisel:stained_glass_pane_red. 64xtile.chisel.stained_glass_pane_red@0
+Found ItemStack chisel:stained_glass_pane_white. 64xtile.chisel.stained_glass_pane_white@0
+Found ItemStack chisel:stained_glass_pane_yellow. 64xtile.chisel.stained_glass_pane_yellow@0
+Found ItemStack chisel:stained_glass_white. 64xtile.chisel.stained_glass_white@0
+Found ItemStack chisel:stained_glass_yellow. 64xtile.chisel.stained_glass_yellow@0
+Found ItemStack chisel:steelblock. 64xtile.chisel.steelblock@0
+Found ItemStack chisel:stone_snakestone. 64xtile.chisel.snakestoneStone@0
+Found ItemStack chisel:stonebricksmooth. 64xtile.chisel.stonebricksmooth@0
+Found ItemStack chisel:tallow. 64xtile.chisel.tallow@0
+Found ItemStack chisel:technical. 64xtile.chisel.technical@0
+Found ItemStack chisel:technical2. 64xtile.chisel.technical2@0
+Found ItemStack chisel:technical3. 64xtile.chisel.technical3@0
+Found ItemStack chisel:technical4. 64xtile.chisel.technical4@0
+Found ItemStack chisel:templeblock. 64xtile.chisel.templeblock@0
+Found ItemStack chisel:thaumium. 64xtile.chisel.thaumium@0
+Found ItemStack chisel:tinblock. 64xtile.chisel.tinblock@0
+Found ItemStack chisel:torch1. 64xtile.torch@0
+Found ItemStack chisel:torch10. 64xtile.torch@0
+Found ItemStack chisel:torch2. 64xtile.torch@0
+Found ItemStack chisel:torch3. 64xtile.torch@0
+Found ItemStack chisel:torch4. 64xtile.torch@0
+Found ItemStack chisel:torch5. 64xtile.torch@0
+Found ItemStack chisel:torch6. 64xtile.torch@0
+Found ItemStack chisel:torch7. 64xtile.torch@0
+Found ItemStack chisel:torch8. 64xtile.torch@0
+Found ItemStack chisel:torch9. 64xtile.torch@0
+Found ItemStack chisel:tyrian. 64xtile.chisel.tyrian@0
+Found ItemStack chisel:upgrade. 1xitem.upgrade@0
+Found ItemStack chisel:uraniumblock. 64xtile.chisel.uraniumblock@0
+Found ItemStack chisel:valentines. 64xtile.chisel.valentines@0
+Found ItemStack chisel:voidstone. 64xtile.chisel.voidstone@0
+Found ItemStack chisel:voidstone2. 64xtile.chisel.voidstone2@0
+Found ItemStack chisel:voidstonePillar. 64xtile.chisel.voidstonePillar@0
+Found ItemStack chisel:voidstonePillar2. 64xtile.chisel.voidstonePillar2@0
+Found ItemStack chisel:voidstoneRunic. 64xtile.chisel.voidstoneRunic@0
+Found ItemStack chisel:warningSign. 64xtile.chisel.warningSign@0
+Found ItemStack chisel:waterstone. 64xtile.chisel.waterstone@0
+Found ItemStack chisel:woolen_clay. 64xtile.chisel.woolen_clay@0

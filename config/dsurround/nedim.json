@@ -1,0 +1,20 @@
+{
+	"entries" : [
+		{
+		"dimId" : -1,
+		"weather" : true,
+		"haze" : false,
+		"aurora" : false,
+		"seaLevel" : 0
+		},
+		{
+		"dimId" : 0,
+		"weather" : true,
+		"haze" : true,
+		"aurora" : true,
+		"seaLevel" : 64,
+		"skyHeight" : 256,
+		"cloudHeight" : 168
+		}
+	]
+}
