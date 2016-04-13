@@ -4,3 +4,5 @@
 <br>
 <p>This pack contains <a color="#00ffff" href="http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820">Fastcraft</a>, by Player, enabled by default. Fastcraft enhances Minecraft with increased performance. Bug reports being made directly to Mod Authors should state Fastcraft is enabled.</p>
 <br>
+
+Special Thanks to the Feed the Beast team and other 3rd Party Members.
