@@ -1,5 +1,37 @@
 Nox Eternus Changelog
 
+04/18/16 - ver. 3.1.1 Release
+	Updated Mods
+	- Applied Energetics rv3 beta-5
+	- Better Foliage 2.0.7
+	- Chisel 2.9.5.11
+	- Draconic Evolution 1.0.2b
+	- FTBLib 1.0.18.3
+	- FTBUtilites 1.0.18.3
+	- FastCraft 1.22
+	- Forestry 4.2.11.59
+	- IndustrialCraft 2.2.819-experimental
+	- Immersive Engineering 0.7.5
+	- IvToolkit 1.2.10
+	- Logistics Pipes 0.9.3.114
+	- LootBags 2.0.3 
+	- Open Modular Turrets 217
+	- Railcraft 9.10.0.0
+	- Recurrent Complex 0.9.7
+	- Rogue Like Dungeons 1.5.0
+	- Sanguimancy 1.1.9-34
+	- Storage Drawers 1.9.6
+	- Thaumic Energetics 1.0.0.424
+	- XPTeleporters 1.2.9
+	
+	Added Mods
+	- ASP + GS Patcher
+	
+	Removed Mods
+	- ClockHud
+	- ArmourHUD
+	- MmmMmmMmmMmm
+	
 04/09/16 - ver. 3.0.3 B3TA T3STING
 	Added Mods
 	- Grimoire of Gaia
@@ -12,21 +44,6 @@ Nox Eternus Changelog
 	- Real Terrain Generation
 	
 04/02/16 - ver. 3.0.2 B3TA T3STING
-	Updated Mods
-	- Better Foliage 2.0.7
-	- Chisel 2.9.5.11
-	- FTBLib 1.0.18.3
-	- FTBUtilites 1.0.18.3
-	- FastCraft 1.22
-	- Forestry 4.2.11.59
-	- Immersive Engineering 0.7.5
-	- Logistics Pipes 0.9.3.114
-	- LootBags 2.0.2
-	- Railcraft 9.10.0.0
-	- Sanguimancy 1.1.9-34
-	- Storage Drawers 1.9.6
-	- XPTeleporters 1.2.9
-	
 	Added Mods
 	- Realistic Torches 1.5.4
 	- PsychedelicCraft 1.5.2
